@@ -17,9 +17,14 @@ env/
 .env
 .env.local
 *.pem
+.cursor-node-path
 
 # Build / output
 dist/
 build/
 *.log
 .cache/
+
+# Cursor / agents
+.cursor/
+.agents/

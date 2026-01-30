@@ -1,0 +1,208 @@
+.grid-wrap {
+  --grid-cell-size: 2rem;
+  --grid-cell-gap: 2px;
+  /* Offset pentru celule: etichetă rând 1.5rem + gap 0.25rem; rând etichete coloane 1.5rem */
+  --grid-offset-x: 1.75rem;
+  --grid-offset-y: 1.5rem;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 0.5rem;
+  position: relative;
+}
+
+/* Overlay: avion întreg pe 3x3 celule (ca la rotație) */
+.grid-plane-overlays {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.grid-plane-overlay {
+  position: absolute;
+  left: calc(var(--grid-offset-x) + var(--plane-col, 0) * (var(--grid-cell-size) + var(--grid-cell-gap)));
+  top: calc(var(--grid-offset-y) + var(--plane-row, 0) * (var(--grid-cell-size) + var(--grid-cell-gap)));
+  width: calc(3 * (var(--grid-cell-size) + var(--grid-cell-gap)) - var(--grid-cell-gap));
+  height: calc(3 * (var(--grid-cell-size) + var(--grid-cell-gap)) - var(--grid-cell-gap));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  pointer-events: none;
+}
+
+.grid-plane-overlay--preview .grid-plane-overlay-icon {
+  opacity: 0.85;
+  filter: drop-shadow(0 0 2px rgba(0, 211, 149, 0.5));
+}
+
+.grid-plane-overlay-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.grid-cols-label {
+  display: flex;
+  margin-left: 1.8rem;
+  gap: 0;
+}
+
+.grid-cols-label .grid-label {
+  width: 2rem;
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  font-weight: 600;
+}
+
+.grid-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.grid-row {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.grid-row .grid-label {
+  width: 1.5rem;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  font-weight: 600;
+  text-align: right;
+}
+
+.grid-cells {
+  display: flex;
+  gap: 2px;
+}
+
+.cell {
+  width: 2rem;
+  height: 2rem;
+  min-width: 2rem;
+  min-height: 2rem;
+  border: 1px solid var(--border-strong, rgba(255,255,255,0.12));
+  border-radius: 6px;
+  background: var(--cell-bg);
+  color: var(--text);
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+}
+
+.cell:hover:not(:disabled) {
+  background: var(--cell-hover);
+  transform: scale(1.05);
+}
+
+.cell:disabled {
+  cursor: default;
+}
+
+.cell.last-shot {
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+.grid-wrap.disabled .cell {
+  cursor: not-allowed;
+  opacity: 0.9;
+}
+
+.cell-empty {
+  background: rgba(255,255,255,0.04);
+}
+
+.cell-body {
+  background: rgba(0, 211, 149, 0.2);
+  border-color: rgba(0, 211, 149, 0.5);
+  font-weight: 700;
+}
+
+.cell-head {
+  background: linear-gradient(145deg, #00d395 0%, #00b080 100%);
+  border: 2px solid rgba(0, 211, 149, 0.8);
+  font-weight: 700;
+  color: #0a0a0f;
+}
+
+.plane-symbol {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+/* Aceeași imagine ca la rotație: culori pe grilă */
+.cell-head .plane-icon-wrap {
+  color: #0a0a0f;
+  filter: drop-shadow(0 0 1px rgba(0,0,0,0.3));
+}
+
+.cell-body .plane-icon-wrap {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.cell-preview .plane-icon-wrap,
+.cell-preview-head .plane-icon-wrap {
+  color: var(--accent);
+}
+
+.cell-preview,
+.cell-preview-head {
+  background: rgba(0, 211, 149, 0.15) !important;
+  border-color: rgba(0, 211, 149, 0.5) !important;
+  border-style: dashed;
+}
+
+.cell-preview-head {
+  background: rgba(0, 211, 149, 0.25) !important;
+}
+
+.cell-miss {
+  background: rgba(100, 100, 100, 0.4);
+  color: var(--text-dim);
+}
+
+.cell-hit,
+.cell-body-hit {
+  background: rgba(220, 160, 60, 0.6);
+  border-color: rgba(240, 180, 80, 0.6);
+}
+
+.cell-down,
+.cell-head-hit {
+  background: rgba(200, 80, 80, 0.6);
+  border-color: rgba(220, 100, 100, 0.6);
+}
+
+.cell-unknown {
+  background: rgba(255,255,255,0.06);
+}
+
+.cell-unknown:hover:not(:disabled) {
+  background: rgba(255,255,255,0.12);
+}
+
+@media (max-width: 480px) {
+  .grid-wrap {
+    --grid-cell-size: 1.75rem;
+  }
+  .cell {
+    width: 1.75rem;
+    height: 1.75rem;
+    min-width: 1.75rem;
+    min-height: 1.75rem;
+    font-size: 0.9rem;
+  }
+}

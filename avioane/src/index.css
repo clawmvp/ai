@@ -1,0 +1,65 @@
+/* Stil inspirat din Nansen.ai: fundal foarte închis, accent verde/teal, tipografie curată */
+:root {
+  --bg: #0a0a0f;
+  --bg-card: #0d1117;
+  --bg-elevated: #161b22;
+  --text: #f0f6fc;
+  --text-dim: #8b949e;
+  --text-muted: #6e7681;
+  --accent: #00d395;
+  --accent-hover: #00e6a4;
+  --accent-dim: rgba(0, 211, 149, 0.15);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.12);
+  --cell-bg: rgba(255, 255, 255, 0.04);
+  --cell-hover: rgba(255, 255, 255, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: #0a0a0f;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.1s;
+}
+
+button:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
