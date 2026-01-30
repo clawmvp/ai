@@ -23,6 +23,7 @@ env/
 dist/
 build/
 *.log
+*.tsbuildinfo
 .cache/
 
 # Cursor / agents
