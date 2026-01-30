@@ -167,7 +167,7 @@ export function playerShoot(state: GameState, row: number, col: number): GameSta
   let message: string
   let currentTurn: 'player' | 'robot' = 'robot'
   let winner: GameState['winner'] = null
-  let phase = state.phase
+  let phase: GameState['phase'] = state.phase
 
   if (!cell) {
     nextEnemyGrid[row][col] = 'miss'
@@ -216,7 +216,7 @@ function playerShootMultiplayer(state: GameState, row: number, col: number): Gam
   const cell = getEnemyCellAt(enemyPlanes, row, col)
   const nextView = myEnemyView.map((r) => r.map((c) => c))
   let winner: GameState['winner'] = null
-  let phase = state.phase
+  let phase: GameState['phase'] = state.phase
 
   if (!cell) {
     nextView[row][col] = 'miss'
@@ -340,7 +340,7 @@ export function applyRobotShot(state: GameState): GameState | null {
   let message: string
   const currentTurn: 'player' | 'robot' = 'player'
   let winner: GameState['winner'] = null
-  let phase = state.phase
+  let phase: GameState['phase'] = state.phase
 
   if (cell === 'empty') {
     nextMyGrid[row][col] = 'miss'

@@ -1,6 +1,4 @@
-import type { MyCell, EnemyCell } from './types'
-import type { Plane } from './types'
-import { GRID_SIZE } from './types'
+import type { MyCell, EnemyCell, Plane } from './types'
 import PlaneIcon from './PlaneIcon'
 import './Grid.css'
 

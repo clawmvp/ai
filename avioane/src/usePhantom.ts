@@ -35,7 +35,8 @@ export function usePhantom() {
   useEffect(() => {
     if (!provider) return
     if (provider.publicKey) setPublicKey(provider.publicKey.toBase58())
-    const handleAccountChange = (key: { toBase58?: () => string } | null) => {
+    const handleAccountChange = (...args: unknown[]) => {
+      const key = args[0] as { toBase58?: () => string } | null
       setPublicKey(key?.toBase58?.() ?? null)
     }
     provider.on?.('accountChanged', handleAccountChange)
