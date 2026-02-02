@@ -1,0 +1,48 @@
+{
+    "expo": {
+        "name": "Solana Tabla Pro",
+        "slug": "solana-tabla-pro",
+        "version": "1.0.0",
+        "orientation": "landscape",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "dark",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#1a1a2e"
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.solanatabla.pro"
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/adaptive-icon.png",
+                "backgroundColor": "#1a1a2e"
+            },
+            "package": "com.solanatabla.pro",
+            "permissions": [
+                "INTERNET",
+                "ACCESS_NETWORK_STATE"
+            ],
+            "minSdkVersion": 23,
+            "targetSdkVersion": 34
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "plugins": [
+            [
+                "expo-build-properties",
+                {
+                    "android": {
+                        "kotlinVersion": "1.8.0"
+                    }
+                }
+            ]
+        ]
+    }
+}

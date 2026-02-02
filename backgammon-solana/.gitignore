@@ -1,0 +1,35 @@
+node_modules/
+dist/
+build/
+target/
+.anchor/
+.DS_Store
+
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/android/app/build/
+mobile/ios/Pods/
+
+# Backend
+backend/node_modules/
+backend/dist/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Anchor
+**/*.so
+test-ledger/
+
+# Sensitive
+.agent/github-config.sh
+*.key
+*.keypair.json

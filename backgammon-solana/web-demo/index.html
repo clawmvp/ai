@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backgammon Pro - Play Online</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Fixed Wallet Header (shown on ALL screens except loading) -->
+    <div id="wallet-header" class="wallet-header hidden">
+        <div class="wallet-left">
+            <span class="solana-logo">◎</span>
+            <span class="network-badge" id="network-badge">DEVNET</span>
+        </div>
+        <div class="wallet-center" id="balance-display">
+            <div class="balance-not-connected">
+                <span class="no-wallet-text">Wallet neconectat</span>
+            </div>
+            <div class="balance-connected hidden" id="balance-connected">
+                <span class="sol-balance" id="sol-balance">0.00 SOL</span>
+                <span class="usd-value" id="usd-value">≈ $0.00</span>
+            </div>
+        </div>
+        <div class="wallet-right">
+            <button id="header-wallet-btn" class="header-wallet-btn" onclick="connectWallet()">
+                <span class="btn-icon">👻</span>
+                <span class="btn-text" id="header-wallet-text">Connect Wallet</span>
+            </button>
+        </div>
+    </div>
+
+    <div id="app">
+        <!-- Loading Screen -->
+        <div id="loading-screen" class="screen active">
+            <div class="loading-content">
+                <div class="dice-icon">🎲</div>
+                <h1>BACKGAMMON PRO</h1>
+                <p>Play Backgammon Online</p>
+                <div class="loading-bar">
+                    <div class="loading-fill"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Menu -->
+        <div id="menu-screen" class="screen">
+            <div class="menu-header">
+                <h1>🎲 BACKGAMMON PRO</h1>
+                <p class="subtitle">Joacă table online cu prietenii</p>
+            </div>
+
+            <div class="menu-cards">
+                <div class="menu-card" onclick="showDifficultySelect()">
+                    <div class="card-icon">🤖</div>
+                    <h3>Single Player</h3>
+                    <p>Joacă contra AI</p>
+                </div>
+
+                <div class="menu-card" onclick="showMultiplayerOptions()">
+                    <div class="card-icon">👥</div>
+                    <h3>Multiplayer</h3>
+                    <p>Joacă online</p>
+                </div>
+
+                <div class="menu-card disabled">
+                    <div class="card-icon">🏆</div>
+                    <h3>Turneu</h3>
+                    <p>Coming Soon</p>
+                </div>
+            </div>
+
+            <div class="stats-bar">
+                <div class="stat">
+                    <span class="stat-value" id="games-played">0</span>
+                    <span class="stat-label">Jocuri</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="wins">0</span>
+                    <span class="stat-label">Victorii</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="win-rate">0%</span>
+                    <span class="stat-label">Win Rate</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Difficulty Selection -->
+        <div id="difficulty-screen" class="screen">
+            <button class="back-btn" onclick="showMenu()">← Înapoi</button>
+            <h2>Alege Dificultatea</h2>
+
+            <div class="difficulty-cards">
+                <div class="difficulty-card beginner" onclick="startGame('beginner')">
+                    <div class="diff-icon">🟢</div>
+                    <h3>ÎNCEPĂTOR</h3>
+                    <p>Mișcări aleatorii, perfect pentru a învăța regulile</p>
+                </div>
+
+                <div class="difficulty-card medium" onclick="startGame('medium')">
+                    <div class="diff-icon">🟡</div>
+                    <h3>MEDIU</h3>
+                    <p>Strategie de bază, bun pentru practică</p>
+                </div>
+
+                <div class="difficulty-card hard" onclick="startGame('hard')">
+                    <div class="diff-icon">🔴</div>
+                    <h3>EXPERT</h3>
+                    <p>AI strategic, pregătește-te pentru o provocare!</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Multiplayer Screen -->
+        <div id="multiplayer-screen" class="screen">
+            <button class="back-btn" onclick="showMenu()">← Înapoi</button>
+            <h2>🌐 Multiplayer</h2>
+
+            <!-- Wallet Required Notice -->
+            <div id="wallet-required" class="wallet-notice">
+                <div class="notice-icon">🔐</div>
+                <p>Conectează wallet-ul Solana pentru a juca multiplayer</p>
+                <button class="connect-wallet-btn" onclick="connectWallet()">
+                    <span>👻</span> Conectează Phantom
+                </button>
+            </div>
+
+            <!-- Connected Wallet Display -->
+            <div id="wallet-connected" class="wallet-connected hidden">
+                <div class="wallet-address">
+                    <span class="wallet-badge">✅</span>
+                    <span id="mp-wallet-address">...</span>
+                </div>
+            </div>
+
+            <div class="multiplayer-options hidden" id="mp-options">
+                <div class="mp-card" onclick="createRoom()">
+                    <div class="mp-icon">🏠</div>
+                    <h3>Creează Cameră</h3>
+                    <p>Invită un prieten cu un cod</p>
+                </div>
+
+                <div class="mp-card" onclick="showJoinRoom()">
+                    <div class="mp-icon">🔗</div>
+                    <h3>Intră în Cameră</h3>
+                    <p>Folosește codul prietenului</p>
+                </div>
+
+                <div class="mp-card" onclick="quickMatch()">
+                    <div class="mp-icon">⚡</div>
+                    <h3>Quick Match</h3>
+                    <p>Găsește un adversar automat</p>
+                </div>
+            </div>
+
+            <div id="room-code-display" class="room-code hidden">
+                <p>Codul camerei tale:</p>
+                <div class="code-box" id="code-box">XXXX</div>
+                <button class="copy-btn" onclick="copyRoomCode()">📋 Copiază</button>
+                <p class="waiting-text">Așteptăm adversarul...</p>
+            </div>
+
+            <div id="join-room-form" class="join-form hidden">
+                <p>Introdu codul camerei:</p>
+                <input type="text" id="room-code-input" maxlength="4" placeholder="XXXX">
+                <button class="join-btn" onclick="joinRoom()">Intră</button>
+            </div>
+
+            <div id="matchmaking-status" class="matchmaking hidden">
+                <div class="spinner"></div>
+                <p>Căutăm un adversar...</p>
+                <button class="cancel-btn" onclick="cancelMatchmaking()">Anulează</button>
+            </div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen">
+            <div class="game-header">
+                <button class="back-btn" onclick="exitGame()">← Meniu</button>
+                <div class="game-info">
+                    <span id="difficulty-display">vs AI Mediu</span>
+                    <span id="turn-display">Tura ta</span>
+                </div>
+            </div>
+
+            <div class="game-container">
+                <!-- Board -->
+                <div class="board-container">
+                    <div id="board" class="board">
+                        <!-- Points will be generated by JS -->
+                    </div>
+
+                    <div class="bar" id="bar">
+                        <div class="bar-section bar-top" id="bar-top"></div>
+                        <div class="bar-section bar-bottom" id="bar-bottom"></div>
+                    </div>
+
+                    <div class="bearing-off">
+                        <div class="bear-off bear-off-white" id="bear-off-white"></div>
+                        <div class="bear-off bear-off-black" id="bear-off-black"></div>
+                    </div>
+                </div>
+
+                <!-- Controls -->
+                <div class="game-controls">
+                    <div class="dice-container">
+                        <div class="die" id="die1">?</div>
+                        <div class="die" id="die2">?</div>
+                    </div>
+
+                    <button class="roll-btn" id="roll-btn" onclick="rollDice()">
+                        🎲 Dă cu zarul
+                    </button>
+
+                    <div class="moves-left" id="moves-left">
+                        Mișcări rămase: 0
+                    </div>
+                </div>
+            </div>
+
+            <!-- Game Messages -->
+            <div id="game-message" class="game-message hidden"></div>
+        </div>
+
+        <!-- Win/Lose Modal -->
+        <div id="result-modal" class="modal hidden">
+            <div class="modal-content">
+                <div id="result-icon" class="result-icon">🏆</div>
+                <h2 id="result-title">Ai câștigat!</h2>
+                <p id="result-text">Felicitări!</p>
+                <button class="play-again-btn" onclick="playAgain()">Joacă din nou</button>
+                <button class="menu-btn" onclick="exitGame()">Meniu principal</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+
+</html>
