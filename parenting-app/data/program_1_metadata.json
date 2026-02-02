@@ -1,0 +1,2004 @@
+{
+  "program_id": 1,
+  "program_name": "All About Parenting",
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "chapter_title": "Esența cooperării dintre părinți și copii",
+      "episodes": [
+        {
+          "id": 2290,
+          "title": "Bun venit",
+          "duration": 273,
+          "description": "Bun venit în programul All About Parenting."
+        },
+        {
+          "id": 2291,
+          "title": "Ce conține programul All About Parenting",
+          "duration": 900,
+          "description": "În acest episod, vei afla mai multe despre programul All About Parenting și despre conținutul acestuia."
+        },
+        {
+          "id": 2292,
+          "title": "Parents App și Echipa noastră",
+          "duration": 187,
+          "description": "Vei învăța despre prietenii de nădejde, care te vor ajuta în călătoria ta: Parents app și echipa noastră."
+        },
+        {
+          "id": 2104,
+          "title": "Cum adresezi întrebări în program",
+          "duration": 168,
+          "description": "Află cum să adresezi întrebări astfel încât să înțelegi cât mai bine teoria, practica și exemplele din program."
+        },
+        {
+          "id": 16,
+          "title": "Fii un părinte mai bun cu 15 minute pe zi",
+          "duration": 249,
+          "description": "Urmăreste un episod din cadrul programului și pune în practică recomandarea de la final."
+        },
+        {
+          "id": 1,
+          "title": "Cauzele pentru care copilul tău spune “NU”",
+          "duration": 751,
+          "description": "Ce sunt nevoile Psihologice de Bază și ce legătură au ele cu refuzurile copilului tău."
+        },
+        {
+          "id": 2,
+          "title": "Ce fel de părinte ești?",
+          "duration": 746,
+          "description": "Află ce stil parental ai și înțelege care sunt avantajele și dezavantajele fiecărui stil parental și ce poți face ca să devii părintele echilibrat de care copilul tău are nevoie."
+        },
+        {
+          "id": 3,
+          "title": "Cum să stabilești reguli și limite",
+          "duration": 624,
+          "description": "În ce situații e necesar să stabilești reguli și limite pentru a favoriza cooperarea copilului tău?"
+        },
+        {
+          "id": 4,
+          "title": "Primele 2 tehnici: „Planifică în avans\" și „După ce\"",
+          "duration": 740,
+          "description": "Copiii trăiesc în prezent. Două tehnici prin care să profiți de acest lucru pentru a obține cooperarea copilului."
+        },
+        {
+          "id": 5,
+          "title": "Următoarele 2 tehnici: „Da, dacă...\" și \"Opțiuni în limită\"",
+          "duration": 542,
+          "description": "Alte 2 tehnici valoroase pe care le poți folosi zilnic și care te vor scoate mai ușor din situațiile în care copilul tău refuză."
+        },
+        {
+          "id": 6,
+          "title": "Dacă totuși ceva nu funcționează, ce poți să faci mai departe",
+          "duration": 443,
+          "description": "Află ce sunt consecințele și care sunt condițiile pe care trebuie să le îndeplinească."
+        },
+        {
+          "id": 7,
+          "title": "Găsește consecințe logice și aplică-le când e cazul",
+          "duration": 627,
+          "description": "Care sunt diferențele dintre consecințele logice și cele naturale și când să le aplici pe fiecare pentru a dezvolta responsabilitatea și autodisciplina."
+        },
+        {
+          "id": 8,
+          "title": "Cum gestionezi refuzul de a închide gadgeturile",
+          "duration": 838,
+          "description": "Ce e de făcut când copilul vrea prea mult la televizor? Cine are „telecomanda” și cum o folosim?"
+        },
+        {
+          "id": 10,
+          "title": "Cum gestionezi refuzul alimentelor",
+          "duration": 684,
+          "description": "Copilul nu mănâncă nimic. Cum îi diversifici alimentația fără a-l forța."
+        },
+        {
+          "id": 9,
+          "title": "Cum gestionezi problemele la despărțire",
+          "duration": 808,
+          "description": "Trebuie să lași copilul la bunici, cu bona sau la grădiniță. Cum faci ca despărțirea să fie fără hohote de plâns și fără să te simți vinovată?"
+        },
+        {
+          "id": 11,
+          "title": "Cum gestionezi refuzul de a-și face temele",
+          "duration": 767,
+          "description": "Află de ce temele și performanța școlară nu sunt direct corelate, dar și cum poți să obții cooperarea copilului când vine vorba de lecții."
+        },
+        {
+          "id": 12,
+          "title": "Cum gestionezi refuzul de a-și strânge jucăriile / de a face curat",
+          "duration": 346,
+          "description": "O tehnică simplă și foarte eficientă pentru ca al tău copil să păstreze curățenia și să facă ordine fără să-i spui de 100 de ori."
+        },
+        {
+          "id": 13,
+          "title": "Cum îl dezobișnuiești de „suptul degetului\"",
+          "duration": 572,
+          "description": "Află de ce este cel mai eficient să lucrezi la motivația copilului pentru a-l determină să renunțe la deprinderile pe care le consideri negative."
+        },
+        {
+          "id": 14,
+          "title": "Refuzul de a dormi în patul lui",
+          "duration": 633,
+          "description": "Care e strategia cu care îl muți pe copil în camera lui, atunci când nu mai ai loc de el în patul matrimonial. Cum îl faci să accepte schimbarea?"
+        },
+        {
+          "id": 15,
+          "title": "Purtatul hainelor neadecvate la școală",
+          "duration": 500,
+          "description": "Învață cum să  gestionezi problema ținutelor și a machiajului pentru a menține o relație pozitivă, atunci când ai un copil (pre)adolescent."
+        },
+        {
+          "id": 3872,
+          "title": "Testare rapidă cunoștințe - Capitolul 1",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 1. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "chapter_title": "Fundația unui părinte echilibrat",
+      "episodes": [
+        {
+          "id": 17,
+          "title": "Introducere Capitolul 2",
+          "duration": 72,
+          "description": "În acest capitol vom discuta în detaliu despre Nevoile Psihologice de Bază, stilurile parentale și armonizarea lor și despre dezvoltarea creierului copililor."
+        },
+        {
+          "id": 18,
+          "title": "Responsabilitatea ta",
+          "duration": 577,
+          "description": "Descoperă care trebuie să fie rolul tău pentru a obține rezultate maxime în creșterea armonioasă a copilului."
+        },
+        {
+          "id": 19,
+          "title": "Cum arată familia ta",
+          "duration": 221,
+          "description": "Indiferent de particularitățile familiei tale, există o abordare unitară pentru dezvoltarea armonioasă a copiilor tăi pe termen lung."
+        },
+        {
+          "id": 22,
+          "title": "Stiluri parentale – introducere",
+          "duration": 457,
+          "description": "Convingerile părinților demonstrează stilul lor parental, iar acesta are impact asupra viitorului adult și, ulterior, asupra întregii societăți."
+        },
+        {
+          "id": 2293,
+          "title": "Povestea metaforă",
+          "duration": 502,
+          "description": "Copilăria este ca o călătorie cu mașina, tu la volan și copilul pe bancheta din spate. Vezi cum arată stilurile parentale în această metaforă."
+        },
+        {
+          "id": 23,
+          "title": "Părintele autoritar",
+          "duration": 710,
+          "description": "Care sunt caracteristicile părintelui autoritar, cel care consideră că copilul îi aparține și pe care îl controlează"
+        },
+        {
+          "id": 24,
+          "title": "Părintele permisiv",
+          "duration": 893,
+          "description": "De ce acest stil este mai nociv chiar decât stilul autoritar. Ce fel de adult va ajunge să fie un copil crescut de un părinte permisiv?"
+        },
+        {
+          "id": 25,
+          "title": "Părintele echilibrat – partea 1",
+          "duration": 741,
+          "description": "Care sunt cele 5 convingeri ale părintelui echilibrat și cum reușește el să crească un copil cu capacitate de autoreglare, răbdător și cu motivație internă."
+        },
+        {
+          "id": 29,
+          "title": "Părintele echilibrat – partea 2",
+          "duration": 921,
+          "description": "Care sunt următoarele 5 convingeri ale părintelui echilibrat și cum reușește el să crească un copil cu capacitate de autoreglare, răbdător și cu motivație internă."
+        },
+        {
+          "id": 26,
+          "title": "Stiluri parentale – Exemple și situații",
+          "duration": 659,
+          "description": "Discutăm diferențele de abordare ale fiecărui stil de parenting în situații concrecte, în care te poți regăsi și tu."
+        },
+        {
+          "id": 27,
+          "title": "Când stilurile părinților diferă",
+          "duration": 529,
+          "description": "Cum armonizezi conflictele cu partenerul tău atunci când aveți stiluri de parenting diferite?"
+        },
+        {
+          "id": 28,
+          "title": "Bunicii, bonele, profesorii",
+          "duration": 582,
+          "description": "Cum gestionezi abordările celorlați adulți și de ce exemplul personal este cel mai important?"
+        },
+        {
+          "id": 20,
+          "title": "Cum va fi copilul tău adult",
+          "duration": 374,
+          "description": "Cum ai vrea să arate copilul tău la vârsta de 30 de ani? Ce să faci acum ca să ajungi acolo mâine."
+        },
+        {
+          "id": 21,
+          "title": "Provocările pe care le ai acum",
+          "duration": 602,
+          "description": "Află de ce atunci când copilul tău are un comportament negativ este important să te concentrezi pe cauză, nu pe efect."
+        },
+        {
+          "id": 2294,
+          "title": "Teoria lui B.F. Skinner",
+          "duration": 759,
+          "description": "În acest episod vei afla mai multe despre teoria motivațională elaborată de BF Skinner, care are în prim plan pedeapsa și recompensa"
+        },
+        {
+          "id": 30,
+          "title": "Cele 3 Nevoi Psihologice de Bază – Introducere",
+          "duration": 488,
+          "description": "Teoria autodeterminării explică motivația din spatele comportamentelor. Care sunt cele 3 Nevoi de care trebuie să ținem cont în creșterea copiilor?"
+        },
+        {
+          "id": 31,
+          "title": "Nevoia de Conectare",
+          "duration": 404,
+          "description": "La ce se referă, ce comportamente negative sau pozitive generează și cum poate fi satisfăcută pentru a avea un copil echilibrat și cooperant."
+        },
+        {
+          "id": 32,
+          "title": "Nevoia de Competență",
+          "duration": 544,
+          "description": "Stă la baza învățării și este cauza „de ce-urilor\" infinite. Care sunt acțiunile care duc la o Nevoie de competență insuficient satisfăcută și cum se manifestă copilul în această situație?"
+        },
+        {
+          "id": 33,
+          "title": "Nevoia de Control (Autonomie)",
+          "duration": 423,
+          "description": "De ce nesatisfacerea aceste nevoi naște cele mai multe refuzuri în comportamentul copilului tău."
+        },
+        {
+          "id": 34,
+          "title": "Starea de echilibru",
+          "duration": 1091,
+          "description": "Satisfacerea celor 3 Nevoi Psihologice de Bază este un proces continuu. Cum te ajută sa obții echilibrul?"
+        },
+        {
+          "id": 35,
+          "title": "Efectul de domino",
+          "duration": 816,
+          "description": "Ce se întâmplă când una dintre cele 3 Nevoi Psihologice de Bază nu este satisfăcută suficient? Este afectat comportamentul copilului?"
+        },
+        {
+          "id": 42,
+          "title": "Stilul parental și cele 3 Nevoi Psihologice de Bază",
+          "duration": 605,
+          "description": "Care este legătura dintre stilurile parentale și cele 3 Nevoi Psihologice de Bază ale copiilor?"
+        },
+        {
+          "id": 36,
+          "title": "Dezvoltarea creierului la copii",
+          "duration": 460,
+          "description": "Oare copilul este un adult în miniatură? Ce așteptări să avem de la copil în funcție de vârsta pe care o are."
+        },
+        {
+          "id": 37,
+          "title": "Copiii și gadgeturile",
+          "duration": 549,
+          "description": "Află despre consecințele și manifestările expunerii timpurii la tehnologie. Cum îi afectează Nevoia de Conectare?"
+        },
+        {
+          "id": 38,
+          "title": "Cum procedezi cu gadgeturile",
+          "duration": 552,
+          "description": "De când este acceptabil accesul la gadgeturi, ce conținut ar trebui să consume un copil și cât timp."
+        },
+        {
+          "id": 39,
+          "title": "Cum gândesc copiii",
+          "duration": 615,
+          "description": "Copiii trăiesc în prezent și își caută distracția în orice. Ce alte particularități speciale au ei și ce să faci cu infomația aceasta."
+        },
+        {
+          "id": 40,
+          "title": "Etapele dezvoltării copiilor – 0-3 ani",
+          "duration": 479,
+          "description": "La ce să fii atent de-a lungul timpului și ce transformări emoționale suferă copilul în primii 3 ani de viață."
+        },
+        {
+          "id": 41,
+          "title": "Etapele dezvoltării copiilor – 3-18 ani",
+          "duration": 398,
+          "description": "Cum se manifestă comportamentul copiilor în funcție de diferite praguri de vârstă și ce Nevoi Psihologice de Bază îi determină să se comporte într-un anumit fel."
+        },
+        {
+          "id": 43,
+          "title": "Recapitulare Capitolul 2",
+          "duration": 306,
+          "description": "Am construit, cărămidă cu cărămidă, fundația unei relații armonioase părinte-copil și este important să ne reamintim informațiile-cheie."
+        },
+        {
+          "id": 3873,
+          "title": "Testare rapidă cunoștințe - Capitolul 2",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 2. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "chapter_title": "Stima de sine și motivația optimă",
+      "episodes": [
+        {
+          "id": 44,
+          "title": "Introducere Capitolul 3",
+          "duration": 61,
+          "description": "Ce vei învăța în acest capitol."
+        },
+        {
+          "id": 45,
+          "title": "Ce este „stima de sine”",
+          "duration": 310,
+          "description": "De ce este ingredientul principal pentru reușita în viață și cât de important este să o creștem în copiii noștri."
+        },
+        {
+          "id": 46,
+          "title": "Imaginea de Sine",
+          "duration": 538,
+          "description": "Ce legătură au parerea celorlați și nevoia de confirmare cu stima de sine."
+        },
+        {
+          "id": 54,
+          "title": "Egocentrism/ego-apreciere",
+          "duration": 393,
+          "description": "Comportamentul egocentric e rezultatul unei stime de sine prea mari?"
+        },
+        {
+          "id": 47,
+          "title": "Caracteristicile unei persoane cu stima de sine scazută",
+          "duration": 544,
+          "description": "Cum este o persoană cu stima de sine scăzută? Pe care arie a vieții sale se concentrează mai intens?"
+        },
+        {
+          "id": 48,
+          "title": "Timiditatea și copilul introvertit",
+          "duration": 384,
+          "description": "De ce timiditatea poate fi o consecință a unei stime de sine scăzute și de ce a fi introvertit nu trebuie să fie considerat un aspect negativ?"
+        },
+        {
+          "id": 49,
+          "title": "Caracteristicile unei persoane cu stima de sine ridicată",
+          "duration": 741,
+          "description": "Află ce convingeri are o persoană cu stima de sine ridicată și care este impactul Nevoilor Psihologice de Bază asupra stimei de sine."
+        },
+        {
+          "id": 50,
+          "title": "Ironia și stima de sine",
+          "duration": 343,
+          "description": "Cât de mare este impactul negativ al ironiei și a sarcasmului asupra stimei de sine? Ce putem face dacă deja ne-a intrat în reflex?"
+        },
+        {
+          "id": 51,
+          "title": "Etichetele",
+          "duration": 616,
+          "description": "Ce se întâmplă dacă îi spui unui copil că este obraznic? Dar că este frumos? Află impactul pe care îl au etichetele asupra copilului, fie ele pozitive sau negative."
+        },
+        {
+          "id": 52,
+          "title": "Comparațiile",
+          "duration": 400,
+          "description": "„Ceilalți copii cum pot? Tu de ce nu poți?” Cum e afectată stima de sine atunci când ne folosim de comparații pentru a ne convinge copiii să facă ceva."
+        },
+        {
+          "id": 53,
+          "title": "Expresii și sentimente de evitat",
+          "duration": 517,
+          "description": "Lucrurile pe care le spunem copiilor le conturează întreaga viață . Ce NU trebuie să spui niciodată ca să nu îi distrugi stima de sine."
+        },
+        {
+          "id": 55,
+          "title": "Iubirea necondiționată",
+          "duration": 409,
+          "description": "Află de ce nu trebuie să tratăm iubirea ca pe o recompensă sau să condiționăm aprecierile."
+        },
+        {
+          "id": 56,
+          "title": "Iubirea împărțită între frați",
+          "duration": 669,
+          "description": "Ce răspunzi la întrebarea „Mami, pe cine iubești mai mult, pe mine sau pe sora mea?”"
+        },
+        {
+          "id": 57,
+          "title": "Evită pedeapsa",
+          "duration": 727,
+          "description": "Pentru că aceasta provoacă suferință și nu are un rol pozitiv în educația copilului, ba mai mult, subminează Nevoia de Control a acestuia."
+        },
+        {
+          "id": 58,
+          "title": "Perfecționismul",
+          "duration": 506,
+          "description": "Pe care aspecte trebuie să pui accentul ca să obții cele mai bune rezultate cu copilul tău.perf"
+        },
+        {
+          "id": 59,
+          "title": "Surprinde-l făcând ceva bun",
+          "duration": 221,
+          "description": "Află cu ce ajută dacă soți în evidență lucrurile bune pe care le-au făcut copiii tăi."
+        },
+        {
+          "id": 60,
+          "title": "Lasă-i să viseze",
+          "duration": 402,
+          "description": "Ce îi spui copilului dacă vrea să se facă astronaut? Sau pompier? Cum reacționezi pentru a nu le afecta stima de sine."
+        },
+        {
+          "id": 61,
+          "title": "Greșeala – oportunitate de învățare",
+          "duration": 593,
+          "description": "Ce îi spui copilului atunci când face o greșeală, pentru ca data viitoare șă știe să facă mai bine."
+        },
+        {
+          "id": 62,
+          "title": "Află-i opinia",
+          "duration": 205,
+          "description": "Cum te asiguri că fiecare membru al familie primește cât mai mult din ceea ce dorește și copilul se simte implicat în deciziile luate."
+        },
+        {
+          "id": 63,
+          "title": "Hainele și camera sunt ale lui",
+          "duration": 260,
+          "description": "Ce faci când alegerile vestimentare ale copilului nu se potrivesc cu gusturile tale?"
+        },
+        {
+          "id": 64,
+          "title": "Renunță la lauda goală. Întreabă și descrie",
+          "duration": 654,
+          "description": "Lauda goală nu este benefică dezvoltării. Află de ce și cu ce să o înlocuiești."
+        },
+        {
+          "id": 65,
+          "title": "Competiție sănătoasă. Competiție nesănătoasă",
+          "duration": 551,
+          "description": "Care e diferența dintre ele și cum te asiguri că încurajezi copilul spre o competiție sănătoasă."
+        },
+        {
+          "id": 66,
+          "title": "Competiție vs. Cooperare",
+          "duration": 494,
+          "description": "Dacă ne învățăm copiii diferența dintre cele doua, le va fi lor mai bine în contextul stimei de sine, dar și nouă tuturor, ca societate."
+        },
+        {
+          "id": 67,
+          "title": "Tehnica dresării unui delfin",
+          "duration": 535,
+          "description": "Prin ce se aseamănă dresajul unui delfin cu creșterea armonioasă a copilului?"
+        },
+        {
+          "id": 68,
+          "title": "Ce înseamnă performanța",
+          "duration": 774,
+          "description": "Află diferența dintre mediocritate și excelență și căile care duc spre cele două rezultate."
+        },
+        {
+          "id": 69,
+          "title": "Despre motivație: o nouă perspectivă",
+          "duration": 248,
+          "description": "Există motivație optimă și suboptimă, iar cel mai important mesaj este că nu poți să-ți motivezi cu adevărat copilul din afară."
+        },
+        {
+          "id": 70,
+          "title": "Motivația dezinteresată",
+          "duration": 287,
+          "description": "De ce sunt unele lucruri pe care suntem absolut demotivați să le facem?"
+        },
+        {
+          "id": 71,
+          "title": "Motivația externă",
+          "duration": 303,
+          "description": "Cât de eficientă este recompensa pentru a-l determina pe copil să aibă un anumit comportament?"
+        },
+        {
+          "id": 72,
+          "title": "Motivația impusă",
+          "duration": 299,
+          "description": "Dacă motivația se bazează pe frică, cât este de eficientă această strategie pe termen lung?"
+        },
+        {
+          "id": 73,
+          "title": "Motivația aliniată",
+          "duration": 447,
+          "description": "Atunci când fiecare acțiune se leagă de un scop sau de niște principii. Vezi cum o poți dobândi."
+        },
+        {
+          "id": 74,
+          "title": "Motivația integrată",
+          "duration": 329,
+          "description": "Cum te ajută motivația integrată să atingi performanța."
+        },
+        {
+          "id": 75,
+          "title": "Motivația inerentă",
+          "duration": 439,
+          "description": "Ce lucruri ai putea face cu orele, fără să mănânci, fără să dormi, fără să te ridici de pe scaun? Care este legătura acestui tip de motivație cu performanța."
+        },
+        {
+          "id": 76,
+          "title": "Recapitulare Capitolul 3",
+          "duration": 174,
+          "description": "Ai aflat despre stima de sine și legătura acesteia cu motivația și cum să o încurajezi și să o faci să crească în copilul tău."
+        },
+        {
+          "id": 3874,
+          "title": "Testare rapidă cunoștințe - Capitolul 3",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 3. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "chapter_title": "Un copil competent este un copil responsabil",
+      "episodes": [
+        {
+          "id": 77,
+          "title": "Descriere Capitolul 4",
+          "duration": 70,
+          "description": "Capitolul care răspunde la întrebările referitoare la competență, responsabilitatea copilului și cum să obțineți amândoi ceea ce vă doriți."
+        },
+        {
+          "id": 78,
+          "title": "Introducere Capitolul 4",
+          "duration": 295,
+          "description": "Vei învăța preponderent despre Nevoia de Control, adică de Autonomie în contextul creşterii unui copil responsabil."
+        },
+        {
+          "id": 79,
+          "title": "Nevoia de Control și definiția responsabilității",
+          "duration": 332,
+          "description": "Află cum hrănim această Nevoie la modul real și cum îl facem pe copil să simtă că ia decizii, să simtă că poate face alegeri și să simtă că învață."
+        },
+        {
+          "id": 80,
+          "title": "Încălcarea autonomiei și responsabilității – Exemple",
+          "duration": 489,
+          "description": "Află cum încălcarea și nesatisfacerea Nevoii de Control duce, în timp, la lipsă de responsabilitate."
+        },
+        {
+          "id": 81,
+          "title": "Echilibrul, autonomia și stilurile parentale",
+          "duration": 775,
+          "description": "De ce este important să obținem un echilibru între autonomie și responsabilitate și cum poți să faci asta pentru a-ți crește armonios copilul."
+        },
+        {
+          "id": 82,
+          "title": "Triunghiul competenței",
+          "duration": 401,
+          "description": "Descoperă când poți să lărgești puțin limitele sau cum determini momentul în care poți să-ți lași copilul să facă lucrurile singur."
+        },
+        {
+          "id": 83,
+          "title": "Responsabilitatea personală",
+          "duration": 604,
+          "description": "Care sunt acele lucruri specifice de care este responsabil copilul tău? Află cum poți, de mic, să-l ajuți să devină responsabil."
+        },
+        {
+          "id": 84,
+          "title": "Responsabilitatea generală",
+          "duration": 200,
+          "description": "Ce reguli e nevoie să respecte fiecare membru al familiei, inclusiv copilul tău?"
+        },
+        {
+          "id": 85,
+          "title": "Responsabilitatea specifică",
+          "duration": 406,
+          "description": "Sunt câteva responsabilități specifice fiecărei persoane în parte. Vezi care sunt acelea pentru copilul tău."
+        },
+        {
+          "id": 86,
+          "title": "Responsabilitatea personală – Exemple",
+          "duration": 719,
+          "description": "Fiecare suntem responsabili de condiția noastră fizică, de igiena personală, cât și a lucrurilor care ne aparțin. Află ce să faci pentru a avea un copil conștient de aceste responsabilități."
+        },
+        {
+          "id": 87,
+          "title": "Competența, pas cu pas",
+          "duration": 706,
+          "description": "Descoperă de ce este necesară secvențialitatea în învățare și cum se clădesc abilitățile copilului cărămidă cu cărămidă."
+        },
+        {
+          "id": 88,
+          "title": "Modifică mediul, ca să poată face singur",
+          "duration": 262,
+          "description": "Știai că dacă pui anumite obiecte la îndemâna copilului, el devine mai competent și mai responsabil? Află exact ce anume trebuie să faci, în funcție de vârsta lui."
+        },
+        {
+          "id": 89,
+          "title": "Lumea e plină de resurse, învață-l să le folosească",
+          "duration": 378,
+          "description": "Hai să vezi cum să-ți înveți copilul să găsească informațiile și răspunsurile de care are nevoie, în așa fel încât să depindă din ce în ce mai puțin de tine."
+        },
+        {
+          "id": 90,
+          "title": "Întreabă de ce, întreabă-l înapoi",
+          "duration": 311,
+          "description": "Află o metodă simplă de a răspunde la „De ce-urile” fără sfârșit. Pe deasupra, îi satisface foarte bine și Nevoia de Competență."
+        },
+        {
+          "id": 91,
+          "title": "Încurajează, fără să forțezi",
+          "duration": 494,
+          "description": "Uneori copiii renunță să facă ceva pentru că este prea mult pentru ei sau din cauza fricii de efort. Află cum poți gestiona corect astfel de situații."
+        },
+        {
+          "id": 92,
+          "title": "Cere permisiunea de a ajuta",
+          "duration": 415,
+          "description": "Descoperă motivul pentru care este bine să aștepți înainte să intervii atunci când al tău copil are o dificultate și cum să o faci într-un mod constructiv."
+        },
+        {
+          "id": 93,
+          "title": "Nu e ușor, e greu. Observă dificultatea",
+          "duration": 377,
+          "description": "Află cum să încurajezi copilul pentru a fi conștient de efortul necesar, să nu se demoralizeze când nu reușește și să simtă din plin succesul."
+        },
+        {
+          "id": 94,
+          "title": "Oferă feedback echilibrat",
+          "duration": 490,
+          "description": "Există multe tipuri de feedback și, dacă le înțelegi, le poți folosi și tu, într-un mod eficient, pentru a crește competența copilului tău."
+        },
+        {
+          "id": 95,
+          "title": "Oferă feedback echilibrat – Exemple",
+          "duration": 473,
+          "description": "Află cum să te uiți la ceea ce copilul tău a făcut bine și să scoți în evidență plusurile pe exact acea activitate pe care dorești să o imbunătățesti."
+        },
+        {
+          "id": 96,
+          "title": "Gândește cu voce tare",
+          "duration": 573,
+          "description": "Descoperă o tehnică eficientă pentru a-l ajuta să învețe lucruri care nu sunt neapărat practice, ci mai mult abstracte."
+        },
+        {
+          "id": 97,
+          "title": "Gândește cu voce tare – Exemple",
+          "duration": 334,
+          "description": "Folosește această tehnică pentru a-ți învăța copilul lucruri valoroase despre gestionarea timpului."
+        },
+        {
+          "id": 98,
+          "title": "Fii un model",
+          "duration": 467,
+          "description": "Cât de adevărat e proverbul „Copilul e oglinda părinților”?"
+        },
+        {
+          "id": 99,
+          "title": "Respectă-i spațiul personal și intimitatea",
+          "duration": 314,
+          "description": "Învață cum să îi oferi copilului tău timp pentru el, spațiu personal și intimitate, dar și cum să ai control asupra anumitor aspecte din viața lui."
+        },
+        {
+          "id": 100,
+          "title": "Evită folosirea pluralului",
+          "duration": 296,
+          "description": "De ce nu e de folos să spui lucruri de tipul „Hai să ne facem temele.”"
+        },
+        {
+          "id": 101,
+          "title": "Încurajează zonele lui de maximă competență",
+          "duration": 428,
+          "description": "Descoperă cum să pui accentul pe zonele de competență maximă ale copilului tău și de ce este de folos să faci asta."
+        },
+        {
+          "id": 102,
+          "title": "Greșeala: oportunitate de învățare",
+          "duration": 482,
+          "description": "Cum gestionezi greșelile ca să te asiguri că al tău copil nu le va repeta."
+        },
+        {
+          "id": 103,
+          "title": "Permite consecințelor naturale să se întâmple",
+          "duration": 418,
+          "description": "Care este rolul consecințelor naturale în contextul responsabilității."
+        },
+        {
+          "id": 104,
+          "title": "Recapitulare Capitolul 4",
+          "duration": 271,
+          "description": "Revedem conceptele principale și tehnicile eficiente pe care le poți utiliza de acum, pentru a crește un copil competent și responsabil."
+        },
+        {
+          "id": 3875,
+          "title": "Testare rapidă cunoștințe - Capitolul 4",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 4. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "chapter_title": "Cele mai bune metode pentru obținerea cooperării",
+      "episodes": [
+        {
+          "id": 105,
+          "title": "Descriere Capitolul 5",
+          "duration": 69,
+          "description": "Despre lipsa cooperării și gestionarea refuzurilor și cum să construiești o relație armonioasă."
+        },
+        {
+          "id": 106,
+          "title": "Introducere Capitolul 5",
+          "duration": 307,
+          "description": "Ce tehnici și metode să aplici pentru a obține cooperarea copilului tău?"
+        },
+        {
+          "id": 107,
+          "title": "Ce să NU faci – Partea I",
+          "duration": 655,
+          "description": "Înainte să faci lucrurile diferit ca înainte, e foarte important să înțelegi, în primul rând, ce nu funcționează din ceea ce faci acum."
+        },
+        {
+          "id": 108,
+          "title": "Ce să NU faci – Partea a II-a",
+          "duration": 582,
+          "description": "Află ce legătură are modul cum învață copilul tău cu refuzurile și cooperarea."
+        },
+        {
+          "id": 109,
+          "title": "Cele trei Nevoi Psihologice de Bază în contextul Cooperării",
+          "duration": 273,
+          "description": "Află ce rol au cele 3 Nevoi Psihologice de Bază pentru a îmbunătăți cooperarea copilului tău."
+        },
+        {
+          "id": 110,
+          "title": "Cele patru motive care ne fac nefericiți",
+          "duration": 497,
+          "description": "Oamenii de știință au cercetat și au aflat care sunt principalele motive care ne fac nefericiți. Află care sunt și unde exact să lucrezi ca să fii fericit în viață."
+        },
+        {
+          "id": 111,
+          "title": "Cum stabilești reguli și limite",
+          "duration": 504,
+          "description": "Află care e modalitatea cea mai eficientă de a compune regulile, astfel încât să fie ușor de urmărit de toți membrii familiei."
+        },
+        {
+          "id": 112,
+          "title": "Cum stabilești reguli și limite – Excepții",
+          "duration": 244,
+          "description": "Află de ce este necesar să accepți și câteva excepții de la regulile stabilite și cum să le folosești, astfel încât să te asigur că nu creezi confuzii."
+        },
+        {
+          "id": 113,
+          "title": "Urmează reguli pentru stabilirea regulilor",
+          "duration": 287,
+          "description": "Iată toate criteriile pe care trebuie să le îndeplinească o regulă pentru a fi bine primită și respectată de membrii familiei."
+        },
+        {
+          "id": 114,
+          "title": "Folosește grafice vizuale",
+          "duration": 224,
+          "description": "Află cum îți e de folos un grafic vizual pentru respectarea regulilor."
+        },
+        {
+          "id": 115,
+          "title": "Stabilește și urmează rutine",
+          "duration": 429,
+          "description": "Care este beneficiul rutinelor și cum să le stabilești în familia ta."
+        },
+        {
+          "id": 116,
+          "title": "Folosește empatia",
+          "duration": 447,
+          "description": "De ce este empatia cea mai la îndemână tehnică pentru obținerea cooperării și cum să o folosești corect."
+        },
+        {
+          "id": 117,
+          "title": "Pregătește terenul",
+          "duration": 399,
+          "description": "Află cum să comunici cu copilul pentru a trece mai ușor printr-un eveniment mai dificil pentru el."
+        },
+        {
+          "id": 118,
+          "title": "Lași impresia că ceri acordul?",
+          "duration": 165,
+          "description": "Cum să găsești echilibrul între blândețe și fermitate atunci când ai o cerință pentru copil."
+        },
+        {
+          "id": 119,
+          "title": "Spune-i copilului ce să facă",
+          "duration": 298,
+          "description": "Descoperă o tehnică foarte valoroasă care îi va oferi claritate copilului în legatură cu cerințele tale"
+        },
+        {
+          "id": 120,
+          "title": "Folosește cuvinte „cod”",
+          "duration": 249,
+          "description": "Vezi cum te ajută puțin umor și niște cuvinte trăsnite pentru ca al tău copil să nu simtă că-l bați la cap."
+        },
+        {
+          "id": 121,
+          "title": "Explică beneficiile calităților",
+          "duration": 288,
+          "description": "La ce folosește să fii generos sau ordonat? Explică-i copilului care sunt beneficiile pe care le va avea când dobândește o anumită calitate."
+        },
+        {
+          "id": 122,
+          "title": "Oferă o alternativă",
+          "duration": 183,
+          "description": "Vrem să-l evităm pe „nu”, dar nu putem accepta toate dorințele copilului. Află cum să oferi alternativa."
+        },
+        {
+          "id": 123,
+          "title": "Condiționează DA-ul",
+          "duration": 172,
+          "description": "Tehnica prin care tu îi arăți copilului tău că-ți împarți controlul pentru a obține și tu, și el, exact ceea ce vă doriți."
+        },
+        {
+          "id": 124,
+          "title": "Înlocuiește pe „dacă” cu „după ce”",
+          "duration": 308,
+          "description": "Descoperă o tehnică care funcționează de minune, înlocuind un singur cuvânt din ceea ce fac de obicei greșit părinții."
+        },
+        {
+          "id": 125,
+          "title": "Fă-ți cunoscută limita",
+          "duration": 324,
+          "description": "O altă tehnică eficientă și care funcționează în doi pași: prin confirmarea alegerii copilului tău și prin comunicarea limitei tale."
+        },
+        {
+          "id": 126,
+          "title": "Întreabă-ți copilul despre consecințe",
+          "duration": 325,
+          "description": "Află cum să-l faci pe copilul tău să renunțe singur la anumite idei mai puțin strălucite pe care le are."
+        },
+        {
+          "id": 127,
+          "title": "Cere timp de gândire",
+          "duration": 171,
+          "description": "Află ce să faci când nu ești sigur de răspunsul pe care să-l dai copilului."
+        },
+        {
+          "id": 128,
+          "title": "Satisface dorințele în fantezie",
+          "duration": 525,
+          "description": "Îi cumperi jucăria pe care ți-o cere insistent și după o zi de joacă o uită într-un colț. Vezi cât de simplu poți evita o astfel de situație."
+        },
+        {
+          "id": 129,
+          "title": "Folosește umorul",
+          "duration": 350,
+          "description": "Cât de serios este parentingul și ce să faci dacă nu ești o persoană cu „umorul la pachet”."
+        },
+        {
+          "id": 130,
+          "title": "Întărește responsabilitatea copilului",
+          "duration": 396,
+          "description": "Află cum să-i obții cooperarea folosindu-te de responsabilitățile personale ale copiilor"
+        },
+        {
+          "id": 131,
+          "title": "Fă-ți treburile cu drag",
+          "duration": 246,
+          "description": "Cum îl influențează pe copil atitudinea ta față de treburile casnice?"
+        },
+        {
+          "id": 132,
+          "title": "Implică-ți copilul în ceea ce faci",
+          "duration": 320,
+          "description": "Află câte Nevoi Psihologice de Bază și câte probleme rezolvi doar implicând copilul în treburile casnice."
+        },
+        {
+          "id": 133,
+          "title": "Păstrează-l pe „nu” pentru situații de urgență",
+          "duration": 170,
+          "description": "Află de ce este important să-l lăsăm pe \"nu\" pentru acele momente în care ai nevoie de o reacție rapidă de la copil."
+        },
+        {
+          "id": 134,
+          "title": "Oferă variante în limită – Partea I",
+          "duration": 321,
+          "description": "Descoperă care este calea de mijloc, în așa fel încât tu să-ți atingi limitele tale, principiile tale și valorile tale, dar și copilul să poată face alegeri și să poată lua decizii."
+        },
+        {
+          "id": 135,
+          "title": "Oferă variante în limită – Partea a II-a",
+          "duration": 418,
+          "description": "Exemple concrete de cerințe formulate în stilul parental echilibrat, în care tu impui limita și valorile pe care le dorești, dar lași copilului variante pentru a alege el."
+        },
+        {
+          "id": 136,
+          "title": "Oferă variante în limită – Partea a III-a",
+          "duration": 677,
+          "description": "Descoperă o altă tehnică care te ajută să setezi limite cu empatie, dar și pe copil să se gândească la alternative și să asimileze mai ușor regulile."
+        },
+        {
+          "id": 137,
+          "title": "Recapitulare Capitolul 5",
+          "duration": 192,
+          "description": "Reamintește-ți ce trebuie și ce nu trebuie să faci pentru a obține cooperararea copilului tău, aplicând un stil de parenting echilibrat."
+        },
+        {
+          "id": 3876,
+          "title": "Testare rapidă cunoștințe - Capitolul 5",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 5. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "chapter_title": "Rezolvarea problemelor și luarea deciziilor",
+      "episodes": [
+        {
+          "id": 138,
+          "title": "Introducere Capitolul 6",
+          "duration": 69,
+          "description": "Află ce vei învăța în Capitolul 6 din All About Parenting."
+        },
+        {
+          "id": 139,
+          "title": "Cele 6 abilități importante",
+          "duration": 150,
+          "description": "Află care sunt abilitățile importante care ajută un om să aibă succes în viața lui, pentru a ști cum să îți crești copilul pentru a deveni un adult de succes."
+        },
+        {
+          "id": 140,
+          "title": "Procesul de gândire, un proces invizibil",
+          "duration": 230,
+          "description": "Cum înveți copiii să rezolve probleme dacă procesul de gândire nu se vede?"
+        },
+        {
+          "id": 141,
+          "title": "Cum rezolvăm problema unui adult",
+          "duration": 285,
+          "description": "Oare rezolvăm problemele de adulți altfel decât pe cele ale copiilor?"
+        },
+        {
+          "id": 142,
+          "title": "Cum rezolvăm problema unui copil",
+          "duration": 218,
+          "description": "Cum reacționezi când copilul vine la tine cu o problemă și cum să-l înveți pe el s-o rezolve singur."
+        },
+        {
+          "id": 143,
+          "title": "Ce să nu faci: neatenția, nerăbdarea",
+          "duration": 212,
+          "description": "Două abordări pe care să nu le (mai) practici, și cu ce să le înlocuiești."
+        },
+        {
+          "id": 144,
+          "title": "Ce să nu faci: sfaturi, soluții, predici",
+          "duration": 116,
+          "description": "Ce să nu faci când copilul vine la tine cu o problemă și de ce, dacă vrei să îi crești stima de sine."
+        },
+        {
+          "id": 145,
+          "title": "Ce să nu faci: învinovățirea, judecarea, amenințarea",
+          "duration": 140,
+          "description": "Reacții de evitat și efectele lor asupra copiilor."
+        },
+        {
+          "id": 146,
+          "title": "Ce să nu faci: distragerea atenției, minimizarea",
+          "duration": 302,
+          "description": "Două reacții pe care părinții le au atunci când copilul le povestește o problemă. Ce înțelege copilul când primesc aceste răspunsuri."
+        },
+        {
+          "id": 147,
+          "title": "Care sunt problemele copiilor",
+          "duration": 424,
+          "description": "Ce probleme rezolvi tu, ca părinte, și ce probleme îl înveți pe copil să și le rezolve singur?"
+        },
+        {
+          "id": 148,
+          "title": "Care sunt problemele adulților",
+          "duration": 363,
+          "description": "Ce probleme rezolvi tu, ca părinte, și ce probleme îl înveți pe copil să și le rezolve singur?"
+        },
+        {
+          "id": 149,
+          "title": "Definiția problemei",
+          "duration": 485,
+          "description": "Trebuie să rezolvi o problemă sau să iei o decizie? Care e diferența?"
+        },
+        {
+          "id": 150,
+          "title": "Definiția deciziei",
+          "duration": 220,
+          "description": "Care e diferența dintre o problemă și o decizie? Ce abordare ai pentru fiecare dintre ele?"
+        },
+        {
+          "id": 151,
+          "title": "Cei patru „S”",
+          "duration": 247,
+          "description": "Care sunt cei 4 pași prin care se rezolvă problemele?"
+        },
+        {
+          "id": 152,
+          "title": "Adresează întrebări despre sentimente",
+          "duration": 234,
+          "description": "Primul „S” din seria de 4 pași în rezolvarea problemelor. Ce legătură au sentimentele?"
+        },
+        {
+          "id": 153,
+          "title": "Confirmă că ai înțeles, fără să judeci",
+          "duration": 257,
+          "description": "„Normal că nu se mai joacă Ilinca cu tine dacă ești răutăcioasă!” – Cum să reacționezi când copilul îți spune ce simte despre o problemă."
+        },
+        {
+          "id": 154,
+          "title": "Verbalizează sentimentul pe care îl transmite",
+          "duration": 183,
+          "description": "O tehnică eficientă care ajută în comunicarea cu un copil care nu poate să își transmită sentimentele."
+        },
+        {
+          "id": 155,
+          "title": "Vorbește despre sentimentele tale",
+          "duration": 198,
+          "description": "Pentru a-l ajuta pe copil să dezvolte empatia, spune-i prin ce stări treci, ce sentimente ai, ce emoții te macină sau te bucură deopotrivă"
+        },
+        {
+          "id": 156,
+          "title": "Evidențiază sentimentele/ emoțiile personajelor",
+          "duration": 287,
+          "description": "Dacă tot te uiți la desene, uite ce poți face ca să-i și fie de folos."
+        },
+        {
+          "id": 157,
+          "title": "Evită să repeți apelative",
+          "duration": 213,
+          "description": "Află diferența dintre etichetă, care este identitară, și o stare, o emoție, un sentiment. Învață-ți copilul diferența dintre ele."
+        },
+        {
+          "id": 158,
+          "title": "Folosește-l pe „tu”, nu pe „noi”",
+          "duration": 141,
+          "description": "De ce nu trebuie să iei problemele copilului să le faci ale tale?"
+        },
+        {
+          "id": 159,
+          "title": "Scopul explorării situației",
+          "duration": 157,
+          "description": "Cum să îți faci o idee mai clară despre pașii pe care copilul ar putea să-i parcurgă pentru a-și rezolva problema."
+        },
+        {
+          "id": 160,
+          "title": "Întreabă din toate unghiurile despre toți cei implicați",
+          "duration": 321,
+          "description": "Ce întrebări să adresezi ca să ai o imagine de ansamblu asupra problemei."
+        },
+        {
+          "id": 161,
+          "title": "Exemple de discuții despre primii doi „S”",
+          "duration": 382,
+          "description": "Analizăm împreună câteva situații ipotetice, de la întrebările puse copilului până la diagnosticarea problemei."
+        },
+        {
+          "id": 162,
+          "title": "Confirmă intenția de rezolvare a problemei",
+          "duration": 194,
+          "description": "Cum procedăm când avem diagnosticul problemei și căutăm o rezolvare."
+        },
+        {
+          "id": 163,
+          "title": "Explorează opțiuni",
+          "duration": 438,
+          "description": "Cum să abordezi problemele copilui, astfel încât, în timp, să învețe să găsească singur soluțiile."
+        },
+        {
+          "id": 164,
+          "title": "Confirmarea/ exersarea soluției",
+          "duration": 296,
+          "description": "Ce faci după ce ai găsit soluția la problemă?"
+        },
+        {
+          "id": 165,
+          "title": "Al patrulea „S” – scopul acestui pas",
+          "duration": 134,
+          "description": "De ce procesul de rezolvare a unei probleme nu se încheie când găsești soluția."
+        },
+        {
+          "id": 166,
+          "title": "Follow up și exemple",
+          "duration": 654,
+          "description": "Despre cum să faci folow up cu empatie și ce să faci dacă al tău copil nu și-a rezolvat până la urmă problema."
+        },
+        {
+          "id": 167,
+          "title": "Procesul decizional pentru o alegere sau o achiziție",
+          "duration": 574,
+          "description": "Care sunt pașii pentru luarea unei decizii. Ce sunt criteriile „must\" și cele „want\"."
+        },
+        {
+          "id": 168,
+          "title": "O convingere importantă",
+          "duration": 92,
+          "description": "Cum să îi transmiți copilului tău că fiecare problemă are o soluție și să îl înveți să o identifice singur."
+        },
+        {
+          "id": 169,
+          "title": "Lasă-l să-și asume consecințele",
+          "duration": 226,
+          "description": "Cum să-l faci pe copil să nu se răzgândească."
+        },
+        {
+          "id": 170,
+          "title": "Tehnici pe care deja le știi",
+          "duration": 350,
+          "description": "Tehnici relevante pentru a-ți ajuta copilul să învețe să-și rezolve singur problemele și să ia deciziile corecte."
+        },
+        {
+          "id": 171,
+          "title": "Recapitulare Capitolul 6",
+          "duration": 326,
+          "description": "Revedem aspectele cele mai importante legate de rezolvarea problemelor și luarea deciziilor, dar și pașii pentru rezolvarea conflictelor."
+        },
+        {
+          "id": 3877,
+          "title": "Testare rapidă cunoștințe - Capitolul 6",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 6. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "chapter_title": "Gestionarea emoțiilor",
+      "episodes": [
+        {
+          "id": 172,
+          "title": "Introducere Capitolul 7",
+          "duration": 93,
+          "description": "Ce vei învăța în Capitolul 7 din All About Parenting."
+        },
+        {
+          "id": 173,
+          "title": "Ce vei învăța în acest capitol",
+          "duration": 97,
+          "description": "Află ce este furia, care este ciclul ei, care e diferența dintre stres și furie și cum îți poți învăța copilul să își gestioneze emoțiile."
+        },
+        {
+          "id": 174,
+          "title": "O poveste personală și un mit despre furie",
+          "duration": 261,
+          "description": "Povestesc cum am învățat eu gestionarea emoțiilor în copilărie de la membrii familiei mele."
+        },
+        {
+          "id": 175,
+          "title": "Ciclul furiei, diferența dintre furie și stres",
+          "duration": 312,
+          "description": "Ce legătură are stresul cu izbucnirile de furie, atât la tine, cât și la copil."
+        },
+        {
+          "id": 176,
+          "title": "Ce se întâmplă cu creierul nostru când ne stresăm",
+          "duration": 341,
+          "description": "Descoperă modul de manifestare al stresului la adulți, ce este diferit în cazul copiilor și află mai multe despre autocontrol."
+        },
+        {
+          "id": 177,
+          "title": "Renunță la logică într-o criză de furie",
+          "duration": 408,
+          "description": "De ce managementul unei crize de furie a copilului tău se realizează cu empatie, nu cu argumente logice."
+        },
+        {
+          "id": 178,
+          "title": "Emoțiile nu sunt nici bune, nici rele",
+          "duration": 292,
+          "description": "Ce sunt emoțiile și de ce avem nevoie de întreg spectrul lor."
+        },
+        {
+          "id": 179,
+          "title": "Îmbogățește vocabularul emoțiilor",
+          "duration": 296,
+          "description": "Ce beneficiu aduce să știm cât mai multe cuvinte din câmpul emoțiilor."
+        },
+        {
+          "id": 180,
+          "title": "Spune-i cum te simți",
+          "duration": 298,
+          "description": "Ce se întâmplă atunci când îi explici copilului cum te simți tu."
+        },
+        {
+          "id": 181,
+          "title": "Folosește-te de desene animate și filme",
+          "duration": 173,
+          "description": "Cum folosești desenele animate pentru a-i îmbunătăți vocabularul cu privire la emoții."
+        },
+        {
+          "id": 182,
+          "title": "Nevoia de Control: sâmburele stresului și furiei",
+          "duration": 555,
+          "description": "Descoperă cele patru motive care ne fac nefericiți și care este legătura lor cu Nevoia de Autonomie."
+        },
+        {
+          "id": 183,
+          "title": "De la situație la reacție",
+          "duration": 479,
+          "description": "Cum reușesc unii oameni să rămână calmi în situații în care alții se enervează și reacționează exploziv."
+        },
+        {
+          "id": 184,
+          "title": "Cum să lucrezi la convingerile tale: un exemplu personal",
+          "duration": 601,
+          "description": "Descoperă ce tehnică să folosești pentru a ține stresul la un nivel scăzut."
+        },
+        {
+          "id": 185,
+          "title": "Șapte comportamente care sabotează",
+          "duration": 383,
+          "description": "Ce comportamente negative la care părinții apelează des sabotează relația cu copiii."
+        },
+        {
+          "id": 186,
+          "title": "Convingerea de bază pentru copii",
+          "duration": 372,
+          "description": "Convingerile pe care să le așezi în ghiozdanul copilului tău pentru a-i fi de folos în viață."
+        },
+        {
+          "id": 187,
+          "title": "Convingeri limitative care te împiedică să te schimbi",
+          "duration": 415,
+          "description": "Schimbarea este posibilă indiferent de cât de dificil ni se pare. Află cum."
+        },
+        {
+          "id": 188,
+          "title": "Despre autoreglare/ autocontrol/ autodisciplină",
+          "duration": 192,
+          "description": "Cum să faci ca reacția ta la anumite situații să fie conștientă, și nu bazată pe impuls."
+        },
+        {
+          "id": 189,
+          "title": "Testul „Marshmallow”",
+          "duration": 389,
+          "description": "Testul care arată legătura între autoreglarea copilului și succesul lui în viață."
+        },
+        {
+          "id": 190,
+          "title": "Amână satisfacerea impulsului",
+          "duration": 315,
+          "description": "De ce să nu satisfaci imediat și de fiecare dată nevoia sau dorința copilului nostru."
+        },
+        {
+          "id": 191,
+          "title": "Frustrarea face parte din procesul de autoreglare",
+          "duration": 251,
+          "description": "Frustrarea este normală, iar unii copii se enervează mai ușor. Ce să faci în aceste situații."
+        },
+        {
+          "id": 192,
+          "title": "Folosește tehnicile pe care le-ai învățat deja",
+          "duration": 244,
+          "description": "Care dintre tehnicile pe care deja le știi sunt utile și pentru a obține autoreglarea."
+        },
+        {
+          "id": 193,
+          "title": "Evită stresul și furia, prin relaxare",
+          "duration": 248,
+          "description": "De când ai devenit părinte, nivelul de stres pare în continuă creștere. Ce să faci ca să nu explodezi."
+        },
+        {
+          "id": 194,
+          "title": "Relaxarea din exterior",
+          "duration": 213,
+          "description": "Ce înseamnă manifestarea furiei la exterior și cum se relaxează acest tip de oameni."
+        },
+        {
+          "id": 195,
+          "title": "Relaxarea din interior",
+          "duration": 372,
+          "description": "De ce au nevoie cei la care relaxarea vine din interior, ce categorie de activități."
+        },
+        {
+          "id": 196,
+          "title": "Cea mai bună metodă de relaxare",
+          "duration": 110,
+          "description": "Indiferent de stilul de relaxare există o metodă care funcționează perfect în ambele cazuri."
+        },
+        {
+          "id": 197,
+          "title": "Furia pasivă",
+          "duration": 328,
+          "description": "Există patru modalități în care oamenii își manifestă furia. Care este prima modalitate?"
+        },
+        {
+          "id": 198,
+          "title": "Furia agresivă",
+          "duration": 268,
+          "description": "Cum se manifestă opusul furiei pasive și la cine e responsabilitatea emoțiilor."
+        },
+        {
+          "id": 199,
+          "title": "Furia pasiv-agresivă",
+          "duration": 223,
+          "description": "Descoperă o combinație parșivă între furia manifestată pasiv și furia manifestată agresiv."
+        },
+        {
+          "id": 200,
+          "title": "Furia asertivă",
+          "duration": 236,
+          "description": "Află ce implică gestionarea eficientă a emoțiilor și cum să o pui în practică."
+        },
+        {
+          "id": 201,
+          "title": "Manifestarea asertivă a furiei",
+          "duration": 616,
+          "description": "Copiii învață să-și manifeste emoțiile uitându-se la noi. Află cum să faci asta într-un mod asertiv."
+        },
+        {
+          "id": 202,
+          "title": "Comunică asertiv",
+          "duration": 498,
+          "description": "Învață să comunici așteptările tale, fă-ți cunoscute sentimentele, însă cu respect și empatie."
+        },
+        {
+          "id": 203,
+          "title": "Exemple specifice",
+          "duration": 508,
+          "description": "Care este diferența dintre tantrum și lupta de putere și cum o gestionezi pe fiecare?"
+        },
+        {
+          "id": 204,
+          "title": "Recapitulare Capitolul 7",
+          "duration": 198,
+          "description": "Repetăm lucrurile extrem de valoroase învățate în acest capitol, care te vor ajuta în orice relație."
+        },
+        {
+          "id": 3878,
+          "title": "Testare rapidă cunoștințe - Capitolul 7",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 7. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "chapter_title": "Cum previi și cum tratezi comportamentele negative",
+      "episodes": [
+        {
+          "id": 205,
+          "title": "Descriere Capitolul 8",
+          "duration": 79,
+          "description": "Află ce vei învăța în Capitolul 8 din All About Parenting."
+        },
+        {
+          "id": 206,
+          "title": "Introducere Capitolul 8",
+          "duration": 248,
+          "description": "În acest capitol vom învăța să diferențiem comportamentul negativ neintenționat al copilului de cel intenționat și cum să le gestionăm corect."
+        },
+        {
+          "id": 207,
+          "title": "Triunghiul competenței",
+          "duration": 342,
+          "description": "Despre cunoștințe, abilități și motivație din perspectiva prevenției și tratamentului comportamentului negativ al copilului."
+        },
+        {
+          "id": 208,
+          "title": "Primele întrebări",
+          "duration": 358,
+          "description": "Care sunt primele întrebări pe care să ți le pui când vrei să faci diferența între un comportament negativ intenționat și unul neintenționat."
+        },
+        {
+          "id": 209,
+          "title": "Următoarele întrebări",
+          "duration": 326,
+          "description": "Cum faci diferența dintre un comportament negativ intenționat și unul neintenționat? – Partea a II-a"
+        },
+        {
+          "id": 210,
+          "title": "Întrebarea cheie",
+          "duration": 476,
+          "description": "Oare chiar tu l-ai determinat pe copil să manifeste comportamentul negativ?"
+        },
+        {
+          "id": 211,
+          "title": "Comportamentele negative neintenționate (particularități)",
+          "duration": 463,
+          "description": "Cum identifici comportamentul neintenționat, cum îl diferențiezi de cel intenționat, cum să îl gestionezi și cum îl previi."
+        },
+        {
+          "id": 212,
+          "title": "Stabilește limite, reguli, principii, convingeri",
+          "duration": 227,
+          "description": "Cum să îi comunici copilului așteptările tale de la comportamentul său."
+        },
+        {
+          "id": 213,
+          "title": "Ignoră comportamentul, nu copilul",
+          "duration": 239,
+          "description": "Cum aplici această tehnică pe cât de simplă, pe atât de utilă."
+        },
+        {
+          "id": 214,
+          "title": "Modifică mediul",
+          "duration": 251,
+          "description": "Descoperă o tehnică eficientă pentru a preveni comportamentele negative neintenționate."
+        },
+        {
+          "id": 215,
+          "title": "Predă abilitatea pas cu pas",
+          "duration": 296,
+          "description": "Cum te ajută această tehnică să obții un comportament dezirabil din partea copilului tău."
+        },
+        {
+          "id": 216,
+          "title": "Apreciază comportamentele pozitive",
+          "duration": 329,
+          "description": "Cum să apreciezi efortul și intențiile copilului de-a face ceea ce îți dorești tu să facă."
+        },
+        {
+          "id": 217,
+          "title": "Cele 4 stiluri de învățare",
+          "duration": 470,
+          "description": "Ce stil de învățare are copilul tău și cum să te folosești de el."
+        },
+        {
+          "id": 218,
+          "title": "Oferă o alternativă în limitele tale",
+          "duration": 265,
+          "description": "Cum să oferi copilului tău opțiuni pentru comportamentul negativ."
+        },
+        {
+          "id": 219,
+          "title": "Lasă consecințele naturale să se întâmple",
+          "duration": 415,
+          "description": "Care este cea mai eficientă metodă de a-l face pe copil să învețe din greșeli."
+        },
+        {
+          "id": 220,
+          "title": "Comportamentul negativ intenționat",
+          "duration": 363,
+          "description": "Când apare comportamentul negativ intenționat?"
+        },
+        {
+          "id": 221,
+          "title": "Cele 4 tipuri de comportament negativ intenționat",
+          "duration": 213,
+          "description": "Când apare fiecare dintre cele 4 tipuri de comportament și care este cauza fiecăruia."
+        },
+        {
+          "id": 222,
+          "title": "Comportamentul negativ intenționat de tip „atenție”",
+          "duration": 441,
+          "description": "Ce Nevoie Psihologică de Bază are în spate și cum să-l identifici."
+        },
+        {
+          "id": 223,
+          "title": "Prevenția comportamentului negativ intenționat de tip „atenție”",
+          "duration": 506,
+          "description": "Ce Nevoie trebuie satisfăcută mai intens și de către cine."
+        },
+        {
+          "id": 224,
+          "title": "Gestionează eficient comportamentul negativ intenționat de tip „atenție”",
+          "duration": 193,
+          "description": "Cum să acționezi corect atunci când un copil vrea atenția ta și folosește un comportament negativ pentru asta."
+        },
+        {
+          "id": 225,
+          "title": "Lupta de putere: cum s-o previi și ce poți face diferit când se întâmplă",
+          "duration": 395,
+          "description": "De ce copilul refuză cooperarea și care e cea mai eficientă tehnică pentru a gestiona comportamentul."
+        },
+        {
+          "id": 226,
+          "title": "Răzbunarea: cum s-o previi și ce poți face diferit când se întâmplă",
+          "duration": 524,
+          "description": "Ce se întâmplă când copilul pierde o luptă de putere și cum să eviți acest comportament negativ."
+        },
+        {
+          "id": 227,
+          "title": "Renunțarea: cum s-o previi și ce poți face diferit când se întâmplă",
+          "duration": 643,
+          "description": "Ce legătură are competitivitatea cu renunțarea și cum poți să previi acest comportament."
+        },
+        {
+          "id": 228,
+          "title": "Comportamentele negative intenționate (particularități)",
+          "duration": 289,
+          "description": "Câteva idei de ținut minte înainte să aplici tehnicile pe care le-ai învățat."
+        },
+        {
+          "id": 229,
+          "title": "Manifestarea emoțiilor prin comportamente negative intenționate",
+          "duration": 283,
+          "description": "Află în ce fel copiii își manifestă sentimentele pentru a-și satisface Nevoile Psihologice de Bază sau pentru a obține exact ceea ce-și doresc."
+        },
+        {
+          "id": 230,
+          "title": "Lanțul comportamentului negativ intenționat",
+          "duration": 281,
+          "description": "Descoperă legătura dintre Nevoile Psihologice de Bază nesatisfăcute și comportamentul negativ al copilului tău."
+        },
+        {
+          "id": 231,
+          "title": "Comportamentele negative intenționate ale adulților",
+          "duration": 340,
+          "description": "Care este ciclul comportamentelor negative la adulti."
+        },
+        {
+          "id": 232,
+          "title": "Comportamente negative neintenționate (exemple)",
+          "duration": 343,
+          "description": "Descoperă câteva exemple de comportamente negative pentru a le putea diferenția pe cele neintenționate de cele intenționate."
+        },
+        {
+          "id": 233,
+          "title": "Comportamentele negative intenționate la copiii de la 0 la 3 ani",
+          "duration": 404,
+          "description": "Comportamentele care apar la vârste mici, cum le diferențiezi de cele neintenționate și cum să le gestionezi corect."
+        },
+        {
+          "id": 234,
+          "title": "Comportamentele negative intenționate la copiii de la 4 la 7 ani",
+          "duration": 556,
+          "description": "Odată cu creșterea copilului, comportamentele negative sunt mai complexe și mai variate."
+        },
+        {
+          "id": 235,
+          "title": "Comportamentele negative intenționate la copiii de la 7 la 11 ani",
+          "duration": 478,
+          "description": "Discutăm despre exemple ale unor comportamente care poate s-au întâmplat de mai multe ori în trecut ori sunt generate de un context anume."
+        },
+        {
+          "id": 236,
+          "title": "Comportamentele negative intenționate la copiii de la 12 ani în sus",
+          "duration": 476,
+          "description": "Descoperă cum să gestionezi corect comportamentele tipice vârstei, precum chiulul, machiajul strident sau fumatul."
+        },
+        {
+          "id": 237,
+          "title": "Recapitulare capitolul 8",
+          "duration": 295,
+          "description": "Revedem informațiile care te-au ajutat să previi și să rezolvi problemele comportamentale ale copiilor tăi."
+        },
+        {
+          "id": 3879,
+          "title": "Testare rapidă cunoștințe - Capitolul 8",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 8. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "chapter_title": "Disciplina și consecințele",
+      "episodes": [
+        {
+          "id": 238,
+          "title": "Descriere Capitolul 9",
+          "duration": 95,
+          "description": "Descoperă ce vei învăța în Capitolul 9."
+        },
+        {
+          "id": 239,
+          "title": "Introducere Capitolul 9",
+          "duration": 169,
+          "description": "O sa afli diferența dintre pedeapsă și disciplină si o să găsești răspunsul la întrebarea „Ce fac când nimic de până acum nu a funcționat?”"
+        },
+        {
+          "id": 240,
+          "title": "Ce făceau părinții noștri",
+          "duration": 390,
+          "description": "Ne întoarcem în trecut și ne reamintim ce a însemnat disciplina în copilăria noastră și cum eram pedepsiți de către părinți."
+        },
+        {
+          "id": 241,
+          "title": "Ce am învățat din ce făceau părinții noștri",
+          "duration": 361,
+          "description": "Oare reacția părinților noștri la greșelile noastre ce fel de mecanisme a creat?"
+        },
+        {
+          "id": 242,
+          "title": "Consecințele pe termen lung ale pedepselor",
+          "duration": 294,
+          "description": "Află de ce pedepsele nu funcționează, chiar dacă vedem o modificarea în comportamentul copilului."
+        },
+        {
+          "id": 243,
+          "title": "Adevăratul scop al pedepselor",
+          "duration": 336,
+          "description": "Am vrea ca ai noștri copii să nu mai greșească, acesta să fie oare de fapt rezultatul și scopul pedepsei?"
+        },
+        {
+          "id": 244,
+          "title": "Cei 4 R ai pedepselor",
+          "duration": 123,
+          "description": "Care sunt cele 4 comportamente negative pe care le provoacă pedeapsa? Rebeliunea e unul dintre ele..."
+        },
+        {
+          "id": 245,
+          "title": "De la situație la consecințe",
+          "duration": 538,
+          "description": "Cum ajungi de la o situație la reacție și consecințele ei și ce rol are pedeapsa în modificarea reacției negative."
+        },
+        {
+          "id": 246,
+          "title": "Cele 3 convingeri ale disciplinei",
+          "duration": 269,
+          "description": "Ce convingeri are un părinte care alege disciplina în loc de pedeapsă."
+        },
+        {
+          "id": 247,
+          "title": "Cei 4 R ai disciplinei",
+          "duration": 113,
+          "description": "Care sunt cele 4 condiții pe care să le îndeplinească disciplina."
+        },
+        {
+          "id": 248,
+          "title": "Disciplina este revelată",
+          "duration": 270,
+          "description": "Află de ce trebuie să îi spui copilului dinainte ce urmează să se întâmple dacă alege să demonstreze un comportament."
+        },
+        {
+          "id": 249,
+          "title": "Disciplina este relaționată logic la comportament",
+          "duration": 359,
+          "description": "Ce înseamnă să legi disciplina de comportamentul negativ."
+        },
+        {
+          "id": 250,
+          "title": "Disciplina este rezonabilă",
+          "duration": 238,
+          "description": "Descoperă motivul pentru care disciplina nu se face la nervi și de ce este nevoie s-o gândești înainte."
+        },
+        {
+          "id": 251,
+          "title": "Disciplina este respectuoasă",
+          "duration": 175,
+          "description": "Ce înseamnă să ai consecințe bazate pe respect și de ce pedeapsa nu îndeplinește această condiție."
+        },
+        {
+          "id": 252,
+          "title": "Beneficiile pe termen lung ale disciplinei",
+          "duration": 268,
+          "description": "De la ruperea comportamentului negativ, până la obținerea echilibrului între părinte și copil, descoperă toate avantajele disciplinei."
+        },
+        {
+          "id": 253,
+          "title": "Greșeala, oportunitate de învățare",
+          "duration": 442,
+          "description": "Învățarea din propriile greșeli este extrem de importantă pentru parcursul nostru de mai târziu, către autodisciplină și responsabilitate."
+        },
+        {
+          "id": 254,
+          "title": "Disciplina preventivă",
+          "duration": 424,
+          "description": "Descoperă ce poți face să nu fie nevoie să ajungi la a aplica consecințe comportamentului copilului tău."
+        },
+        {
+          "id": 255,
+          "title": "Consecințele naturale",
+          "duration": 614,
+          "description": "Cum îl ajută pe copil să înțeleagă consecințele naturale?"
+        },
+        {
+          "id": 256,
+          "title": "Consecințele logice",
+          "duration": 581,
+          "description": "Află de ce acestea sunt întotdeauna ultima soluție."
+        },
+        {
+          "id": 257,
+          "title": "Consecințele logice: un exemplu concret",
+          "duration": 860,
+          "description": "Îți prezint un exemplu de la cap la coadă despre cum să aplici disciplina prin consecințele logice."
+        },
+        {
+          "id": 258,
+          "title": "Mai mult decât „îmi pare rău” – reguli simple",
+          "duration": 381,
+          "description": "De ce nu e suficient să ceară iertare după ce a greșit."
+        },
+        {
+          "id": 259,
+          "title": "Oferă opțiuni: formularea corectă",
+          "duration": 445,
+          "description": "Află de ce este important să îi dai posibilitatea copilului să aleagă și cum să faci asta în mod corect."
+        },
+        {
+          "id": 260,
+          "title": "Implică-ți copilul în alegerea consecinței",
+          "duration": 507,
+          "description": "Cum să gestionezi situațiile în care disciplina nu a fost revelată dinainte, dar comportamentul negativ s-a întâmplat."
+        },
+        {
+          "id": 261,
+          "title": "Ia măsuri!",
+          "duration": 336,
+          "description": "Când să iei măsuri ca să nu fii nici părinte autoritar și nici să nu repeți „de 100 de ori”."
+        },
+        {
+          "id": 262,
+          "title": "Înlătură tentațiile",
+          "duration": 456,
+          "description": "Disciplina și autodisciplina merg mână în mână. Află câteva lurcruri despre cum să o crești pe cea din urmă în copilul tău."
+        },
+        {
+          "id": 263,
+          "title": "Conectează-te la lumea lui",
+          "duration": 404,
+          "description": "Ce faci atunci când copilul tău manifestă interes către o activitate pe care nu o aprobi."
+        },
+        {
+          "id": 264,
+          "title": "Încurajează terminarea sarcinilor",
+          "duration": 332,
+          "description": "Ce beneficiu are copilul dacă învață să termine sarcinile pe care le-a început."
+        },
+        {
+          "id": 265,
+          "title": "Schimbarea unui obicei",
+          "duration": 396,
+          "description": "Cum gestionezi comportamentele negative la vârste mici și cum să faci pe măsură ce crește."
+        },
+        {
+          "id": 266,
+          "title": "Efortul și distracția",
+          "duration": 239,
+          "description": "Descoperă de ce este importantă distracția în învățare, în special în cazul copiilor de până la 8-9 ani."
+        },
+        {
+          "id": 267,
+          "title": "Este entuziasmul suficient?",
+          "duration": 339,
+          "description": "Află diferența dintre pasiune și autodisciplină și ce caracteristici comune au oamenii care au avut succes în viața lor."
+        },
+        {
+          "id": 268,
+          "title": "Exemple de la A la Z de comportamente negative intenționate – partea I",
+          "duration": 276,
+          "description": "În care discutăm pe larg câteva exemple și modul în care ar trebui gestionate corect, cu tehnicile învățate."
+        },
+        {
+          "id": 269,
+          "title": "Exemple de la A la Z de comportamente negative intenționate – partea a II-a",
+          "duration": 249,
+          "description": "În care discutăm pe larg câteva exemple și modul în care ar trebui gestionate corect cu tehnicile învățate."
+        },
+        {
+          "id": 270,
+          "title": "Minciuna",
+          "duration": 762,
+          "description": "Hai să vedem ce înseamnă minciuna, cum o putem preveni și gestiona, mai ales dacă deja a devenit un obicei."
+        },
+        {
+          "id": 271,
+          "title": "Recapitulare Capitolul 9",
+          "duration": 180,
+          "description": "Am plecat de la ceea ce ni s-a întâmplat nouă, copii fiind, și ce am învățat din pedepsele primite și am ajuns la disciplină și tehnicile de obținere a acesteia."
+        },
+        {
+          "id": 3880,
+          "title": "Testare rapidă cunoștințe - Capitolul 9",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 9. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "chapter_title": "Cum îi implici armonios pe toți membrii familiei",
+      "episodes": [
+        {
+          "id": 272,
+          "title": "Descriere Capitolul 10",
+          "duration": 55,
+          "description": "Află despre ce vei învăța în Capitolul 10 din All About Parenting"
+        },
+        {
+          "id": 273,
+          "title": "Introducere Capitolul 10",
+          "duration": 178,
+          "description": "În acest capitol ne uităm la tine, la valorile tale și la felul în care arată valorile celorlalți membri ai familiei tale."
+        },
+        {
+          "id": 274,
+          "title": "Diadele – câte relații există într-o familie",
+          "duration": 534,
+          "description": "Din ce e formată familia și de ce nu o putem privi ca pe un tot unitar."
+        },
+        {
+          "id": 275,
+          "title": "Identifică-ți valorile – partea I",
+          "duration": 461,
+          "description": "Primele întrebări cu ajutorul cărora îți identifici valorile."
+        },
+        {
+          "id": 276,
+          "title": "Identifică-ți valorile – partea a II-a",
+          "duration": 615,
+          "description": "A doua serie de întrebări cu ajutorul cărora îți identifici valorile."
+        },
+        {
+          "id": 277,
+          "title": "Viața ta este rezultatul valorilor pe care le ai",
+          "duration": 647,
+          "description": "De ce este important să îți cunoști valorile și ce legătură au ele cu relațiile din familia ta."
+        },
+        {
+          "id": 278,
+          "title": "Cum le vorbești celorlalți pe limba lor",
+          "duration": 423,
+          "description": "Învață de ce să comunici asertiv, politicos și în concordanță cu valorile celeilalte persoane."
+        },
+        {
+          "id": 279,
+          "title": "Contrariile se atrag?",
+          "duration": 592,
+          "description": "Discutăm despre valori comune, echilibru, energie masculină și energie feminină pentru a înțelege relațiile membrilor familiei."
+        },
+        {
+          "id": 280,
+          "title": "2 stiluri în rezolvarea problemelor",
+          "duration": 621,
+          "description": "Cum rezolvă oamenii problemele și cum să relaționezi armonios cu fiecare dintre ei."
+        },
+        {
+          "id": 281,
+          "title": "Consiliul de familie",
+          "duration": 320,
+          "description": "De ce este important să punem toată familia laolaltă și care sunt obiectivele acestor întâlniri."
+        },
+        {
+          "id": 282,
+          "title": "Beneficiile consiliului de familie",
+          "duration": 502,
+          "description": "Descoperă toate avantajele pe care le aduc în familie aceste întâlniri."
+        },
+        {
+          "id": 283,
+          "title": "Specificațiile consiliului de familie",
+          "duration": 407,
+          "description": "Cum se realizează consiliile în cazul unor familii specifice, ca cele monoparentale, și ce beneficii au în aceste situații."
+        },
+        {
+          "id": 284,
+          "title": "Rolurile în consiliul de familie",
+          "duration": 412,
+          "description": "Ce roluri primește fiecare membru al familiei în consiliu și care este scopul fiecăruia."
+        },
+        {
+          "id": 285,
+          "title": "Agenda consiliului de familie",
+          "duration": 527,
+          "description": "Care este desfășurătorul unui consiliu de familie, ce face fiecare rol și ce subiecte pot apărea pe ordinea de zi."
+        },
+        {
+          "id": 286,
+          "title": "De unde încep?",
+          "duration": 392,
+          "description": "Vedem, pas cu pas, cum organizezi și implementezi un consiliu de familie."
+        },
+        {
+          "id": 287,
+          "title": "Modalități prin care luăm decizii",
+          "duration": 430,
+          "description": "Despre vot, consens și propunerea mea de a folosi o combinație între cele două atunci când luați decizii în familie."
+        },
+        {
+          "id": 288,
+          "title": "Pași în luarea de decizii",
+          "duration": 447,
+          "description": "Cum ajungem să luăm o decizie în cadrul unui consiliu de familie în așa fel încât fiecare să obțină cât mai mult din ceea ce-și dorește."
+        },
+        {
+          "id": 289,
+          "title": "Sugestii pentru spargatorii de gheață și pentru ancore",
+          "duration": 336,
+          "description": "Cum să folosești aceste roluri pentru a avea atât tu, cât și ceilalți membri ai familiei, cât mai multe beneficii de pe urma consiliilor."
+        },
+        {
+          "id": 290,
+          "title": "Exemplu personal: consiliul de tip „club”",
+          "duration": 256,
+          "description": "Îți povestesc despre cum ne-au ajutat pe noi, în copilărie, consiliile de familie și ce abilități am dezvoltat de pe urma lor."
+        },
+        {
+          "id": 291,
+          "title": "Cât de consecvent să fii în parenting?",
+          "duration": 404,
+          "description": "Află de ce nu trebuie să aplici consecvența cu orice preț."
+        },
+        {
+          "id": 292,
+          "title": "Comportamentele negative manifestate în public",
+          "duration": 347,
+          "description": "Cum te comporți atunci când copilul se comportă nepotrivit în public?"
+        },
+        {
+          "id": 293,
+          "title": "Prietenii și familia extinsă",
+          "duration": 298,
+          "description": "Cum să gestionezi corect aplicarea principiilor de parenting atunci când sunt de față alte persoane sau când mergeți în vizită."
+        },
+        {
+          "id": 294,
+          "title": "Cum să fii consecvent cu partenerul în parenting",
+          "duration": 813,
+          "description": "Cum și de ce să stabilești cu partenerul un plan comun pentru problemele frecvente din familie."
+        },
+        {
+          "id": 295,
+          "title": "Cum să oferi sfaturi celorlalți",
+          "duration": 572,
+          "description": "Ce faci când observi un părinte care nu știe sau nu poate să gestioneze corect o situație și crezi că ai putea să-l ajuți."
+        },
+        {
+          "id": 296,
+          "title": "Cum să primești sfaturile celorlalți",
+          "duration": 591,
+          "description": "Ce faci cu sfaturile pe care ți le dă mama, bunica sau un articol pe un blog."
+        },
+        {
+          "id": 297,
+          "title": "Cum răspundem la critică",
+          "duration": 611,
+          "description": "Ce faci când cineva îți critică modul de a te comporta cu copiii tăi."
+        },
+        {
+          "id": 298,
+          "title": "Ne enervăm pe rând",
+          "duration": 208,
+          "description": "Îți povestesc despre un principiu util, care funcționează în cazul oricărui tip de relație."
+        },
+        {
+          "id": 299,
+          "title": "4 exemple de situații combinate în rezolvarea problemelor",
+          "duration": 724,
+          "description": "Câteva situații provocatoare, o combinație între problemele copiilor și problemele părinților și soluțiile lor."
+        },
+        {
+          "id": 300,
+          "title": "Recapitulare Capitolul 10",
+          "duration": 271,
+          "description": "Revizuim capitolul în care am discutat despre valorile familiale, armonizarea lor și implicarea tuturor membrilor în luarea deciziilor."
+        },
+        {
+          "id": 3881,
+          "title": "Testare rapidă cunoștințe - Capitolul 10",
+          "duration": 0,
+          "description": "Completează quiz-ul pentru a verifica cunoștințele și tehnicile asimilate în Capitolul 10. Durează 5 minute.  Succes!"
+        }
+      ]
+    },
+    {
+      "chapter_id": 24,
+      "chapter_title": "Gestionarea conflictelor dintre copii",
+      "episodes": [
+        {
+          "id": 2223,
+          "title": "Cum să gestionezi conflictele între frați sau între copii, în general",
+          "duration": 178,
+          "description": "Află cum poți ajuta copii să-și rezolve conflictele într-un mod eficient."
+        },
+        {
+          "id": 583,
+          "title": "Ce să NU faci",
+          "duration": 562,
+          "description": "Află care metode de stingere a conflictelor dintre copii nu sunt recomandate și de ce nu trebuie să apelezi la ele."
+        },
+        {
+          "id": 584,
+          "title": "Convingeri sănătoase despre conflicte",
+          "duration": 304,
+          "description": "Gestionarea eficientă a conflictelor se realizează dacă predai anumite convingeri copilului tău."
+        },
+        {
+          "id": 585,
+          "title": "Stabilește reguli",
+          "duration": 505,
+          "description": "Descoperă cea mai simplă metodă de a preveni certurile legate de jucării."
+        },
+        {
+          "id": 586,
+          "title": "Când și cum să intervii",
+          "duration": 238,
+          "description": "Află când este necesar să intervii în conflictele copiilor și care ar trebui să fie rolul tău."
+        },
+        {
+          "id": 587,
+          "title": "Pași în rezolvarea conflictelor",
+          "duration": 663,
+          "description": "Trecem gradual printr-un exemplu de conflict pentru a înțelege care sunt etapele de rezolvare."
+        }
+      ]
+    }
+  ]
+}

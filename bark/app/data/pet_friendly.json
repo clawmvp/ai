@@ -1,0 +1,122 @@
+[
+    {
+        "id": 101,
+        "name": "Sera Eden",
+        "address": "Strada C. A. Rosetti 37, Sector 1",
+        "lat": 44.4363,
+        "lng": 26.1066,
+        "description": "Hub urban într-o fostă seră, terasă superbă, atmosferă relaxată.",
+        "rating": 4.8,
+        "type": "cafe"
+    },
+    {
+        "id": 102,
+        "name": "J'ai Bistrot",
+        "address": "Calea Griviței 55, Sector 1",
+        "lat": 44.4447,
+        "lng": 26.0856,
+        "description": "Grădină mare, prietenoasă, vibe boem. Foarte dog-friendly.",
+        "rating": 4.7,
+        "type": "bistro"
+    },
+    {
+        "id": 103,
+        "name": "Fabrica Club",
+        "address": "Strada 11 Iunie 50, Sector 4",
+        "lat": 44.4204,
+        "lng": 26.0950,
+        "description": "Club, terasă și restaurant, atmosferă alternativă.",
+        "rating": 4.5,
+        "type": "club"
+    },
+    {
+        "id": 104,
+        "name": "Hard Rock Cafe",
+        "address": "Șoseaua Pavel D. Kiseleff 32, Sector 1",
+        "lat": 44.4755,
+        "lng": 26.0762,
+        "description": "Restaurant iconic în parcul Herăstrău, terasă mare.",
+        "rating": 4.6,
+        "type": "restaurant"
+    },
+    {
+        "id": 105,
+        "name": "Veranda Mall",
+        "address": "Strada Ziduri Moși 23, Sector 2",
+        "lat": 44.4533,
+        "lng": 26.1367,
+        "description": "Mall pet-friendly, acces permis în zonele comune.",
+        "rating": 4.4,
+        "type": "mall"
+    },
+    {
+        "id": 106,
+        "name": "ParkLake Shopping Center",
+        "address": "Strada Liviu Rebreanu 4, Sector 3",
+        "lat": 44.4206,
+        "lng": 26.1558,
+        "description": "Mall modern lângă parcul IOR, foarte deschis către animale.",
+        "rating": 4.7,
+        "type": "mall"
+    },
+    {
+        "id": 107,
+        "name": "AFI Cotroceni",
+        "address": "Bulevardul Vasile Milea 4, Sector 6",
+        "lat": 44.4308,
+        "lng": 26.0526,
+        "description": "Cel mai mare mall din România, permite accesul cu carnet de sănătate.",
+        "rating": 4.5,
+        "type": "mall"
+    },
+    {
+        "id": 108,
+        "name": "M60",
+        "address": "Strada D. I. Mendeleev 2, Sector 1",
+        "lat": 44.4429,
+        "lng": 26.0963,
+        "description": "Cafenea de specialitate, design scandinav, iubitori de animale.",
+        "rating": 4.6,
+        "type": "cafe"
+    },
+    {
+        "id": 109,
+        "name": "Energiea",
+        "address": "Strada Actor Ion Brezoianu 4, Sector 5",
+        "lat": 44.4347,
+        "lng": 26.0945,
+        "description": "Pub urban, mâncare sănătoasă, atmosferă vibrantă.",
+        "rating": 4.5,
+        "type": "bistro"
+    },
+    {
+        "id": 110,
+        "name": "Pâine și Vin",
+        "address": "Strada Actor Ion Brezoianu 4, Sector 5",
+        "lat": 44.4348,
+        "lng": 26.0944,
+        "description": "Batoze și vinuri românești, loc intim și primitor.",
+        "rating": 4.8,
+        "type": "restaurant"
+    },
+    {
+        "id": 111,
+        "name": "Alt Shift",
+        "address": "Strada Constantin Mille 4, Sector 1",
+        "lat": 44.4357,
+        "lng": 26.0955,
+        "description": "Restaurant popular, paste excelente, pet-friendly.",
+        "rating": 4.6,
+        "type": "restaurant"
+    },
+    {
+        "id": 112,
+        "name": "Mercato Comunale",
+        "address": "Strada Gheorghe Polizu 28-36, Sector 1",
+        "lat": 44.4485,
+        "lng": 26.0825,
+        "description": "Food court în aer liber, perfect pentru ieșit cu câinele vara.",
+        "rating": 4.6,
+        "type": "food_court"
+    }
+]

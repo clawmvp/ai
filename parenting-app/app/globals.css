@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Define dark variant for class-based dark mode */
+@variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900;
+  }
+}
+
+/* Manual override for body if variant has specificity issues, though @variant should handle it */
+:root.dark body {
+  @apply bg-slate-900 text-slate-50;
+}

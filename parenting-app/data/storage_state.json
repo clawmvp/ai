@@ -1,0 +1,183 @@
+{
+  "cookies": [
+    {
+      "name": "cip",
+      "value": "84.232.192.83",
+      "domain": "web.parents.app",
+      "path": "/static/media",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chost",
+      "value": "web.parents.app",
+      "domain": "web.parents.app",
+      "path": "/static/media",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cip",
+      "value": "84.232.192.83",
+      "domain": "web.parents.app",
+      "path": "/static/css",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chost",
+      "value": "web.parents.app",
+      "domain": "web.parents.app",
+      "path": "/static/css",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cip",
+      "value": "84.232.192.83",
+      "domain": "web.parents.app",
+      "path": "/static/js",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chost",
+      "value": "web.parents.app",
+      "domain": "web.parents.app",
+      "path": "/static/js",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cip",
+      "value": "84.232.192.83",
+      "domain": "web.parents.app",
+      "path": "/account",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chost",
+      "value": "web.parents.app",
+      "domain": "web.parents.app",
+      "path": "/account",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.572854125.1769884727",
+      "domain": ".parents.app",
+      "path": "/",
+      "expires": 1804444726.91023,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "parents-web",
+      "value": "%7B%7D",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cip",
+      "value": "84.232.192.83",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chost",
+      "value": "web.parents.app",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-token",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzY5OTcxMTI5LCJqdGkiOiI3ODhiYmY2MTJhYTQ0NzlhYjA2YjIwY2RmN2Y0NWI2YSIsInVzZXJfaWQiOiI2M2I2YWYwMjE2ZTViNDA1MDY4NTEwY2MiLCJlbWFpbCI6Imdlb3JnaWFuYS5uaWN1bGFlQGxlbW9uaWNlLnJvIiwidXNlcm5hbWUiOiJnZW9yZ2lhbmEubmljdWxhZUBsZW1vbmljZS5ybyIsInNjb3BlcyI6W10sImdyb3VwcyI6W119.CU8rzUz9iFNvT3Ek918u-rMnlqSFvHWvqyKQPJju4_M",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-refresh-token",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTgwMTQyMDcyOSwianRpIjoiMWMyZWQ4ZTkxNzU5NDg5YWJhNzBkZDdiZDliMTExNWQiLCJ1c2VyX2lkIjoiNjNiNmFmMDIxNmU1YjQwNTA2ODUxMGNjIiwiZW1haWwiOiJnZW9yZ2lhbmEubmljdWxhZUBsZW1vbmljZS5ybyIsInVzZXJuYW1lIjoiZ2VvcmdpYW5hLm5pY3VsYWVAbGVtb25pY2Uucm8iLCJzY29wZXMiOltdLCJncm91cHMiOltdfQ.vdcB-QVxe0Q78p4ybkm4SN-oUSdxNGl4MR6xIR45mQE",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "ro",
+      "domain": "web.parents.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_L2F5BR7EGH",
+      "value": "GS2.1.s1769884726$o1$g1$t1769884731$j55$l0$h0",
+      "domain": ".parents.app",
+      "path": "/",
+      "expires": 1804444731.165907,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web.parents.app",
+      "localStorage": [
+        {
+          "name": "iconify-count",
+          "value": "0"
+        },
+        {
+          "name": "iconify-version",
+          "value": "iconify2"
+        },
+        {
+          "name": "qa-user",
+          "value": "1uy3lllfu080m6exkd3h4cg"
+        }
+      ]
+    }
+  ]
+}

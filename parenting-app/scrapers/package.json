@@ -1,0 +1,19 @@
+{
+  "name": "parenting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@isomorphic-git/lightning-fs": "^4.6.2",
+    "@xenova/transformers": "^2.17.2",
+    "dotenv": "^17.2.3",
+    "isomorphic-git": "^1.36.3",
+    "playwright": "^1.58.1"
+  }
+}

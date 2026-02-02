@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Parcul IOR - Insula Câinilor",
+        "address": "Parcul Alexandru Ioan Cuza, Sector 3",
+        "lat": 44.42305,
+        "lng": 26.15673,
+        "description": "Zonă imensă dedicată câinilor, pe insulă, cu acces la lac. Cel mai mare spațiu de acest gen din sector.",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "name": "Parcul Herăstrău - Zona Câini",
+        "address": "Parcul Regele Mihai I, Sector 1",
+        "lat": 44.4727,
+        "lng": 26.0793,
+        "description": "Spații verzi generoase în nordul capitalei, aproape de zona Expoziției.",
+        "rating": 4.6
+    },
+    {
+        "id": 3,
+        "name": "Parcul Izvor",
+        "address": "Bulevardul Națiunile Unite, Sector 5",
+        "lat": 44.4318,
+        "lng": 26.0852,
+        "description": "Popular printre posesorii de câini, lângă Palatul Parlamentului. Spațiu deschis, ideal pentru alergare.",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Parcul Cișmigiu - Țarc",
+        "address": "Bulevardul Regina Elisabeta, Sector 1",
+        "lat": 44.4369,
+        "lng": 26.0905,
+        "description": "Țarc renovat recent, zonă centrală, umbrit.",
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "name": "Parcul Sebastian",
+        "address": "Strada Mihail Sebastian, Sector 5",
+        "lat": 44.4147,
+        "lng": 26.0688,
+        "description": "Parc de cartier cu zonă dedicată animalelor.",
+        "rating": 4.4
+    },
+    {
+        "id": 6,
+        "name": "Parcul Circului",
+        "address": "Bulevardul Lacul Tei, Sector 2",
+        "lat": 44.4563,
+        "lng": 26.1132,
+        "description": "Zonă liniștită, multă vegetație, oază de verdeață.",
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "name": "Parcul Tineretului",
+        "address": "Bulevardul Tineretului, Sector 4",
+        "lat": 44.4065,
+        "lng": 26.1042,
+        "description": "Spații vaste, dealuri, popular pentru alergare și socializare.",
+        "rating": 4.6
+    },
+    {
+        "id": 8,
+        "name": "Parcul Lumea Copiilor",
+        "address": "Bulevardul Tineretului, Sector 4",
+        "lat": 44.4021,
+        "lng": 26.1156,
+        "description": "Zonă amenajată, lângă Tineretului, acces facil.",
+        "rating": 4.4
+    },
+    {
+        "id": 9,
+        "name": "Parcul Moghioroș (Drumul Taberei)",
+        "address": "Drumul Taberei, Sector 6",
+        "lat": 44.4208,
+        "lng": 26.0354,
+        "description": "Țarc renovat complet, facilități moderne, foarte popular în sector.",
+        "rating": 4.7
+    },
+    {
+        "id": 10,
+        "name": "Parcul Crângași",
+        "address": "Calea Crângași, Sector 6",
+        "lat": 44.4492,
+        "lng": 26.0463,
+        "description": "Aproape de Lacul Morii, spațiu deschis, vânturos dar plăcut.",
+        "rating": 4.3
+    },
+    {
+        "id": 11,
+        "name": "Parcul Liniei",
+        "address": "Strada Liniei, Sector 6",
+        "lat": 44.4315,
+        "lng": 26.0355,
+        "description": "Parc liniar nou, include loc de joacă modern pentru câini.",
+        "rating": 4.8
+    },
+    {
+        "id": 12,
+        "name": "Parcul Tudor Arghezi",
+        "address": "Bulevardul Metalurgiei, Sector 4",
+        "lat": 44.3650,
+        "lng": 26.1243,
+        "description": "Parc ultra-modern, spațiu dedicat animalelor de companie.",
+        "rating": 4.9
+    },
+    {
+        "id": 13,
+        "name": "Parcul Plumbuita",
+        "address": "Strada Plumbuita, Sector 2",
+        "lat": 44.4699,
+        "lng": 26.1340,
+        "description": "Zonă de câini pe malul lacului, peisaj frumos.",
+        "rating": 4.5
+    },
+    {
+        "id": 14,
+        "name": "Parcul Sticlăriei",
+        "address": "Strada Câmpia Libertății, Sector 2",
+        "lat": 44.4372,
+        "lng": 26.1772,
+        "description": "Parc sălbatic, natural, excelent pentru plimbări în natură.",
+        "rating": 4.7
+    }
+]
